@@ -31,6 +31,24 @@
 ;;      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
 
 
+;; Make external links (http/https) open in a new tab in HTML export.
+(require 'ox-html)
+
+(defun framirez/org-html-external-links-new-tab (link backend _info)
+  "Add target=_blank and rel=noopener noreferrer to external links in HTML export."
+  (when (and (eq backend 'html)
+             (string-match-p "href=\"https?://" link)
+             (not (string-match-p "target=\"" link)))
+    ;; Insert attributes right after the <a
+    (replace-regexp-in-string
+     "<a\\b"
+     "<a target=\"_blank\" rel=\"noopener noreferrer\""
+     link
+     t t)))
+
+(add-to-list 'org-export-filter-link-functions
+             #'framirez/org-html-external-links-new-tab)
+
 ;; Generate the site output
 (org-publish-all t)
 
