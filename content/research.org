@@ -7,7 +7,6 @@ My research is in ergodic theory and dynamical systems, Diophantine
 approximation, and fractal geometry. Most of my papers are on the
 [[https://arxiv.org/a/ramirez_f_1.html][arxiv]]. 
 
-#+caption: Publications
 | title                                                                                                         | co-authors                                        | journal                                                           |      year |
 |---------------------------------------------------------------------------------------------------------------+---------------------------------------------------+-------------------------------------------------------------------+-----------|
 | Twisted approximation with restricted denominators                                                            | M. Hauke                                          | /Submitted/                                                       |           |
@@ -37,6 +36,8 @@ approximation, and fractal geometry. Most of my papers are on the
 | Smooth cocycles over homogeneous dynamical systems                                                            |                                                   | Dissertation, University of Michigan                              |      2010 |
 | Cocycles over higher-rank abelian actions on quotients of semisimple Lie groups                               |                                                   | /Journal of Modern Dynamics/                                      |      2009 |
 
+#+begin_comment
+
 #+caption: Preprints
 | title                                                    | co-authors                                         | status           |
 |----------------------------------------------------------+----------------------------------------------------+------------------|
@@ -48,3 +49,4 @@ approximation, and fractal geometry. Most of my papers are on the
 | Digitally restricted Ostrowski expansions                | K. Johnson Bustamante, E. Lew, A. Mesa, J. Moffatt | /In preparation/ |
 | Periodicity and symmetry in the mucube                   | A. Oliveira, C. Sadanand, S. Shrestha              | /In preparation/ |
 
+#+end_comment
