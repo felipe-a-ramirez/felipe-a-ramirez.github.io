@@ -1,0 +1,25 @@
+#+title: Felipe A. Ramírez
+
+~ [[file:index.org][about]] ~ [[file:research.org][research]] ~ [[file:teaching.org][teaching]] ~ *students* ~ [[file:cv.org][cv]] ~ [[file:drp.org][drp]] ~ [[file:nednt.org][nednt]] ~
+
+
+If you are a student who would like to learn more about my research
+areas, please get in touch! You may also be interested in our [[https://mathcs-graduate.wescreates.wesleyan.edu/drp/][Directed
+Reading Program]] (DRP).
+
+Here are my current and former students, and the titles of their
+theses and projects:
+
+| student           | degree and year                                  | thesis                                                                                                          |
+|-------------------+--------------------------------------------------+-----------------------------------------------------------------------------------------------------------------|
+| Stefan Hesseling  | M.A., Wesleyan University, 2026 (expected)       | TBD                                                                                                             |
+| Gilbert Michaud   | Ph.D., Wesleyan University, 2026 (expected)      | TBD                                                                                                             |
+| Nachama Stern     | M.A., Wesleyan University, 2024                  | Quantitative density for random and deterministic processes                                                     |
+| Daniel Barrueco   | M.A., Wesleyan University, 2022                  | Ergodic theory, entropy, and times 2 times 3                                                                    |
+| Dan Alvey         | Ph.D., Wesleyan University, 2021                 | Approximation on affine subspaces                                                                               |
+| Andre P. Oliveira | Ph.D., Wesleyan University, 2021                 | Diophantine approximation with restrictions coming from different places                                        |
+| Prayag Chatha     | M.A., Wesleyan University, 2017                  | Close enough: a dynamical approach to the Littlewood Conjecture                                                 |
+| Max Ryan          | M.A., Wesleyan University, 2016                  | Continued fractions: a geometric perspective                                                                    |
+| Prayag Chatha     | Honors in Mathematics, Wesleyan University, 2016 | Scrambled cats and normal numbers: an introduction to dynamical systems and their number-theoretic applications |
+
+

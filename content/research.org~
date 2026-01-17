@@ -1,0 +1,50 @@
+#+title: Felipe A. Ramírez
+
+~ [[file:index.org][about]] ~ *research* ~ [[file:teaching.org][teaching]] ~ [[file:students.org][students]] ~ [[file:cv.org][cv]] ~ [[file:drp.org][drp]] ~ [[file:nednt.org][nednt]] ~
+
+
+My research is in ergodic theory and dynamical systems, Diophantine
+approximation, and fractal geometry. Most of my papers are on the
+[[https://arxiv.org/a/ramirez_f_1.html][arxiv]]. 
+
+#+caption: Publications
+| title                                                                                                         | co-authors                                        | journal                                                           |      year |
+|---------------------------------------------------------------------------------------------------------------+---------------------------------------------------+-------------------------------------------------------------------+-----------|
+| Twisted approximation with restricted denominators                                                            | M. Hauke                                          | /Submitted/                                                       |           |
+| Toward Khintchine's theorem with a moving target: extra divergence or finitely centered target                | G. Michaud                                        | /Mathematika/                                                     |      2026 |
+| General Duffin--Schaeffer-type counterexamples in Diophantine approximation                                   | S. Chow, M. Hauke, A. Pollington                  | /Mathematika/,  Special Wooley Issue                              | to appear |
+| Metric bootstraps for limsup sets                                                                             |                                                   | /Transactions of the American Mathematical Society/               | to appear |
+| The Duffin--Schaeffer conjecture with a moving target                                                         | M. Hauke                                          | /Submitted/                                                       |           |
+| Inhomogeneous approximation for systems of linear forms with primitivity constraints                          | D. Allen                                          | /Mathematische Zeitschrift/                                       |      2025 |
+| The Duffin--Schaeffer conjecture for systems of linear forms                                                  |                                                   | /Journal of the London Mathematical Society/                      |      2024 |
+| Independence inheritance and Diophantine approximation for systems of linear forms                            | D. Allen                                          | /International Mathematics Research Notices/                      |      2023 |
+| Diophantine approximation in metric space                                                                     | J. Fraser, H. Koivusalo                           | /Bulletin of the London Mathematical Society/                     |      2023 |
+| Dirichlet is not just bad and singular                                                                        | V. Beresnevich, L. Guan, A. Marnat, S. Velani     | /Advances in Mathematics/                                         |      2022 |
+| Remarks about inhomogeneous pair correlations                                                                 |                                                   | /Mathematical Proceedings of the Cambridge Philosophical Society/ |      2022 |
+| A note on sequences not having metric Poissonian pair correlations                                            |                                                   | /Archiv der Mathematik/                                           |      2021 |
+| Khintchine's theorem with random fractions                                                                    |                                                   | /Mathematika/                                                     |      2020 |
+| A characterization of bad approximability                                                                     |                                                   | /Nonlinearity/                                                    |      2018 |
+| Recurrence to shrinking targets on typical self-affine fractals                                               | H. Koivusalo                                      | /Proceedings of the Edinburgh Mathematical Society/               |      2018 |
+| Rational approximation of affine coordinate subspaces of Euclidean space                                      | D. S. Simmons, F. Sueess                          | /Acta Arithmetica/                                                |      2017 |
+| Different speeds suffice for rendezvous of two agents in arbitrary graphs                                     | E. Kranakis, D. Krizanc, E. Markou, A. Pagourtzis | /SOFSEM/                                                          |      2017 |
+| Counterexamples, covering systems, and zero-one laws for inhomogeneous approximation                          |                                                   | /International Journal of Number Theory/                          |      2017 |
+| Higher cohomology of parabolic actions on certain homogeneous spaces                                          |                                                   | /Journal d'Analyse Mathematique/                                  |      2017 |
+| Metric Diophantine Approximation: aspects of recent work                                                      | V. Beresnevich, S. Velani                         | /LMS Lecture Notes Series/                                        |      2016 |
+| Khintchine types of translated coordinate hyperplanes                                                         |                                                   | /Acta Arithmetica/                                                |      2015 |
+| Limit theorems for rank-one Lie groups                                                                        | A. Gorodnik                                       | /Proceedings of the American Mathematical Society/                |      2014 |
+| Invariant distributions and cohomology for geodesic flows and higher cohomology of higher-rank Anosov actions |                                                   | /Journal of Functional Analysis/                                  |      2013 |
+| Higher cohomology for Anosov actions on certain homogeneous spaces                                            |                                                   | /Journal d'Analyse Mathematique/                                  |      2013 |
+| Smooth cocycles over homogeneous dynamical systems                                                            |                                                   | Dissertation, University of Michigan                              |      2010 |
+| Cocycles over higher-rank abelian actions on quotients of semisimple Lie groups                               |                                                   | /Journal of Modern Dynamics/                                      |      2009 |
+
+#+caption: Preprints
+| title                                                    | co-authors                                         | status           |
+|----------------------------------------------------------+----------------------------------------------------+------------------|
+| On Khintchine's theorem in dimension two                 | D. Allen, M. Hauke                                 | /In progress/    |
+| Duffin--Schaeffer-type examples with prescribed behavior | S. Hesseling                                       | /In progress/    |
+| The Duffin--Schaeffer conjecture is almost surely false  | M. Hauke                                           | /To come/        |
+| Jarnik's theorem for annuli                              | H. Koivusalo                                       | /In progress/    |
+| Prime denominators                                       | V. Beresnevich, M. Hauke, B. Ward                  | /In progress/    |
+| Digitally restricted Ostrowski expansions                | K. Johnson Bustamante, E. Lew, A. Mesa, J. Moffatt | /In preparation/ |
+| Periodicity and symmetry in the mucube                   | A. Oliveira, C. Sadanand, S. Shrestha              | /In preparation/ |
+
