@@ -1,7 +1,15 @@
 #+title: Felipe A. Ramírez
 
-~ [[file:index.org][about]] ~ [[file:research.org][research]] ~ [[file:teaching.org][teaching]] ~ [[file:students.org][students]] ~ [[file:cv.org][cv]] ~ [[file:drp.org][drp]] ~ *nednt* ~
 
+#+begin_export html
+<nav class="site-nav"><span class="site-nav-inner">
+#+end_export
+
+[[file:index.org][about]] ~ [[file:research.org][research]] ~ [[file:teaching.org][teaching]] ~ [[file:students.org][students]] ~ [[file:cv.org][cv]] ~ [[file:drp.org][drp]] ~ *nednt*
+
+#+begin_export html
+</span></nav>
+#+end_export
 
 I am a co-organizer of the [[http://nednt.wesleyan.edu/][New England Dynamics and Number Theory]]
 Seminar. Write to me if you are interested in participating

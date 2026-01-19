@@ -1,10 +1,18 @@
 #+title: Felipe A. Ramírez
 
-~ [[file:index.org][about]] ~ *research* ~ [[file:teaching.org][teaching]] ~ [[file:students.org][students]] ~ [[file:cv.org][cv]] ~ [[file:drp.org][drp]] ~ [[file:nednt.org][nednt]] ~
+#+begin_export html
+<nav class="site-nav"><span class="site-nav-inner">
+#+end_export
+
+[[file:index.org][about]] ~ *research* ~ [[file:teaching.org][teaching]] ~ [[file:students.org][students]] ~ [[file:cv.org][cv]] ~ [[file:drp.org][drp]] ~ [[file:nednt.org][nednt]]
+
+#+begin_export html
+</span></nav>
+#+end_export
 
 My research is in ergodic theory and dynamical systems, Diophantine
 approximation, and fractal geometry. Most of my papers are on the
-[[https://arxiv.org/a/ramirez_f_1.html][arxiv]]. 
+[[https://arxiv.org/a/ramirez_f_1.html][arxiv]].
 
 | title                                                                                                         | co-authors                                        | journal                                                           |      year |
 |---------------------------------------------------------------------------------------------------------------+---------------------------------------------------+-------------------------------------------------------------------+-----------|

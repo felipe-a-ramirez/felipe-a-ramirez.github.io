@@ -12,9 +12,13 @@
 <body>
 <div id="content" class="content">
 <h1 class="title">Felipe A. Ramírez</h1>
+<nav class="site-nav"><span class="site-nav-inner">
+
 <p>
-~ <a href="index.html">about</a> ~ <a href="research.html">research</a> ~ <a href="teaching.html">teaching</a> ~ <b>students</b> ~ <a href="cv.html">cv</a> ~ <a href="drp.html">drp</a> ~ <a href="nednt.html">nednt</a> ~
+<a href="index.html">about</a> ~ <a href="research.html">research</a> ~ <a href="teaching.html">teaching</a> ~ <b>students</b> ~ <a href="cv.html">cv</a> ~ <a href="drp.html">drp</a> ~ <a href="nednt.html">nednt</a>
 </p>
+
+</span></nav>
 
 
 <p>

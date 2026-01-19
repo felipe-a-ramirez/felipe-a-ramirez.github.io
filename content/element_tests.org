@@ -1,0 +1,38 @@
+#+title: Felipe A. Ramírez
+
+~ [[file:index.org][about]] ~ [[file:research.org][research]] ~ *teaching* ~ [[file:students.org][students]] ~ [[file:cv.org][cv]] ~ [[file:drp.org][drp]]  ~ [[file:nednt.org][nednt]] ~
+
+A bulleted list:
+
+- Bulleted
+- List
+- Items
+
+  + Different
+
+  + Looking
+
+  + Bullets
+
+@@html:<details>@@ @@html:<summary>@@ Some more text.@@html:</summary>@@ What else does org-mode have and how does it look on the page?@@html:</details>@@
+
+There's =verbatim text=. How does that look? And what about:
+
+- [ ] UnCheck boxes?
+- [X] Check boxes?
+
+
+
+  
+@@html:<details>@@ @@html:<summary>@@ Courses taught @@html:</summary>@@  
+
+
+| year    | fall                                                                                                                                                                                                        | spring                                                                                            |
+|---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------|
+| 2024/25 | Complex and Real Analysis (graduate); @@html:<br>@@ Fundamentals of Analysis                                                                                                                                | Sabbatical                                                                                        |
+| 2023/24 | Fundamentals of Analysis; @@html:<br>@@ Elementary Statistics                                                                                                                                               | Advanced Topics in Real Analysis; @@html:<br>@@ Fractal Geometry (graduate)                       |
+| 2022/23 | Sabbatical                                                                                                                                                                                                  | Measure Theory and Functional Analysis (graduate); @@html:<br>@@ Differential Equations           |
+
+
+
+@@html:</details>@@  
