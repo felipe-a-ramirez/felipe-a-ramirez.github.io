@@ -21,7 +21,7 @@ theses and projects:
 | student           | degree and year                                  | thesis                                                                                                          |
 |-------------------+--------------------------------------------------+-----------------------------------------------------------------------------------------------------------------|
 | Stefan Hesseling  | M.A., Wesleyan University, 2026 (expected)       | TBD                                                                                                             |
-| Gilbert Michaud   | Ph.D., Wesleyan University, 2026 (expected)      | TBD                                                                                                             |
+| Gilbert Michaud   | Ph.D., Wesleyan University, 2027 (expected)      | TBD                                                                                                             |
 | Nachama Stern     | M.A., Wesleyan University, 2024                  | Quantitative density for random and deterministic processes                                                     |
 | Daniel Barrueco   | M.A., Wesleyan University, 2022                  | Ergodic theory, entropy, and times 2 times 3                                                                    |
 | Dan Alvey         | Ph.D., Wesleyan University, 2021                 | Approximation on affine subspaces                                                                               |
