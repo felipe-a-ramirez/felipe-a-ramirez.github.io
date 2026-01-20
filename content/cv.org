@@ -4,7 +4,7 @@
 <nav class="site-nav"><span class="site-nav-inner">
 #+end_export
 
-[[file:index.org][about]] ~ [[file:research.org][research]] ~ [[file:teaching.org][teaching]] ~ [[file:students.org][students]] ~ *cv* ~ [[file:drp.org][drp]] ~ [[file:nednt.org][nednt]]
+[[file:index.org][about]] @@html:&bull;@@ [[file:research.org][research]] @@html:&bull;@@ [[file:teaching.org][teaching]] @@html:&bull;@@ [[file:students.org][students]] @@html:&bull;@@ *cv* @@html:&bull;@@ [[file:drp.org][drp]] @@html:&bull;@@ [[file:nednt.org][nednt]]
 
 #+begin_export html
 </span></nav>
