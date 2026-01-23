@@ -105,7 +105,7 @@ td,th{
 th{
     background-color: var(--accent-th);
     font-weight: 700;
-    border-bottom: 2px solid var(--border-strong);
+/*    border-bottom: 1px solid var(--border-strong);*/
 }
 
 tr:nth-child(even){
