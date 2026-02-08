@@ -1,15 +1,9 @@
 #+title: Felipe A. Ramírez
-
-
-#+begin_export html
-<nav class="site-nav"><span class="site-nav-inner">
-#+end_export
-
-[[file:index.org][about]] @@html:&bull;@@ [[file:research.org][research]] @@html:&bull;@@ [[file:teaching.org][teaching]] @@html:&bull;@@ [[file:students.org][students]] @@html:&bull;@@ [[file:cv.org][cv]] @@html:&bull;@@ [[file:drp.org][drp]] @@html:&bull;@@ *nednt*
-
-#+begin_export html
-</span></nav>
-#+end_export
+#+include: "nav.org"
 
 I am a co-organizer of the [[http://nednt.wesleyan.edu/][New England Dynamics and Number Theory]]
-Seminar. Write to me if you are interested in participating
+Seminar. We maintain a [[https://www.youtube.com/channel/UCT-NXt5EErpcMJaOlribvFw][YouTube channel]] with past talks. Write to me if
+you are interested in participating.
+
+[[file:spring-2026-schedule.org][Here]] is this semester's schedule of talks, updated regularly as the slots
+fill.

@@ -1,14 +1,6 @@
 #+title: Felipe A. Ramírez
+#+include: "nav.org"
 
-#+begin_export html
-<nav class="site-nav"><span class="site-nav-inner">
-#+end_export
-
-*about* @@html:&bull;@@ [[file:research.org][research]] @@html:&bull;@@  [[file:teaching.org][teaching]] @@html:&bull;@@ [[file:students.org][students]]  @@html:&bull;@@ [[file:cv.org][cv]] @@html:&bull;@@ [[file:drp.org][drp]] @@html:&bull;@@ [[file:nednt.org][nednt]]
-
-#+begin_export html
-</span></nav>
-#+end_export
 
 I am an Associate Professor of Mathematics in the [[http://www.wesleyan.edu/mathcs/][Department of
 Mathematics and Computer Science]] at [[http://www.wesleyan.edu/][Wesleyan University]].

@@ -1,14 +1,5 @@
 #+title: Felipe A. Ramírez
-
-#+begin_export html
-<nav class="site-nav"><span class="site-nav-inner">
-#+end_export
-
-[[file:index.org][about]] @@html:&bull;@@ *research* @@html:&bull;@@ [[file:teaching.org][teaching]] @@html:&bull;@@ [[file:students.org][students]] @@html:&bull;@@ [[file:cv.org][cv]] @@html:&bull;@@ [[file:drp.org][drp]] @@html:&bull;@@ [[file:nednt.org][nednt]]
-
-#+begin_export html
-</span></nav>
-#+end_export
+#+include: "nav.org"
 
 My research is in ergodic theory and dynamical systems, Diophantine
 approximation, and fractal geometry. Most of my papers are on the
@@ -17,10 +8,10 @@ approximation, and fractal geometry. Most of my papers are on the
 | title                                                                                                         | co-authors                                        | journal                                                           |      year |
 |---------------------------------------------------------------------------------------------------------------+---------------------------------------------------+-------------------------------------------------------------------+-----------|
 | Twisted approximation with restricted denominators                                                            | M. Hauke                                          | /Submitted/                                                       |           |
-| Toward Khintchine's theorem with a moving target: extra divergence or finitely centered target                | G. Michaud                                        | /Mathematika/                                                     |      2026 |
 | General Duffin--Schaeffer-type counterexamples in Diophantine approximation                                   | S. Chow, M. Hauke, A. Pollington                  | /Mathematika/,  Special Wooley Issue                              | to appear |
-| Metric bootstraps for limsup sets                                                                             |                                                   | /Transactions of the American Mathematical Society/               |      2025 |
+| Toward Khintchine's theorem with a moving target: extra divergence or finitely centered target                | G. Michaud                                        | /Mathematika/                                                     |      2026 |
 | The Duffin--Schaeffer conjecture with a moving target                                                         | M. Hauke                                          | /Submitted/                                                       |           |
+| Metric bootstraps for limsup sets                                                                             |                                                   | /Transactions of the American Mathematical Society/               |      2025 |
 | Inhomogeneous approximation for systems of linear forms with primitivity constraints                          | D. Allen                                          | /Mathematische Zeitschrift/                                       |      2025 |
 | The Duffin--Schaeffer conjecture for systems of linear forms                                                  |                                                   | /Journal of the London Mathematical Society/                      |      2024 |
 | Independence inheritance and Diophantine approximation for systems of linear forms                            | D. Allen                                          | /International Mathematics Research Notices/                      |      2023 |
@@ -57,3 +48,5 @@ approximation, and fractal geometry. Most of my papers are on the
 | Periodicity and symmetry in the mucube                   | A. Oliveira, C. Sadanand, S. Shrestha              | /In preparation/ |
 
 #+end_comment
+
+

@@ -12,17 +12,39 @@
 <body>
 <div id="content" class="content">
 <h1 class="title">Felipe A. Ramírez</h1>
-<nav class="site-nav"><span class="site-nav-inner">
+<nav class="site-nav">
+  <a href="/index.html">about</a>
+  <a href="/research.html">research</a>
+  <a href="/teaching.html">teaching</a>
+  <a href="/students.html">students</a>
+  <a href="/cv.html">cv</a>
+  <a href="/drp.html">drp</a> 
+  <a href="/nednt.html">nednt</a>
+</nav>
 
-<p>
-<a href="index.html">about</a> &bull; <a href="research.html">research</a> &bull; <a href="teaching.html">teaching</a> &bull; <a href="students.html">students</a> &bull; <a href="cv.html">cv</a> &bull; <a href="drp.html">drp</a> &bull; <b>nednt</b>
-</p>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const current = window.location.pathname.replace(/\/$/, "");
+  document.querySelectorAll(".site-nav a").forEach(link => {
+    const href = link.getAttribute("href").replace(/\/$/, "");
+    if (href === current) {
+      link.classList.add("current");
+      link.removeAttribute("href"); // disables the link
+    }
+  });
+});
+</script>
 
-</span></nav>
 
 <p>
 I am a co-organizer of the <a target="_blank" rel="noopener noreferrer" href="http://nednt.wesleyan.edu/">New England Dynamics and Number Theory</a>
-Seminar. Write to me if you are interested in participating
+Seminar. We maintain a <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCT-NXt5EErpcMJaOlribvFw">YouTube channel</a> with past talks. Write to me if
+you are interested in participating.
+</p>
+
+<p>
+<a href="spring-2026-schedule.html">Here</a> is this semester's schedule of talks, updated regularly as the slots
+fill.
 </p>
 </div>
 </body>

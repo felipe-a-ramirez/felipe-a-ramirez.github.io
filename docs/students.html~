@@ -12,14 +12,28 @@
 <body>
 <div id="content" class="content">
 <h1 class="title">Felipe A. Ramírez</h1>
-<nav class="site-nav"><span class="site-nav-inner">
+<nav class="site-nav">
+  <a href="/index.html">about</a>
+  <a href="/research.html">research</a>
+  <a href="/teaching.html">teaching</a>
+  <a href="/students.html">students</a>
+  <a href="/cv.html">cv</a>
+  <a href="/drp.html">drp</a> 
+  <a href="/nednt.html">nednt</a>
+</nav>
 
-<p>
-<a href="index.html">about</a> &bull; <a href="research.html">research</a> &bull; <a href="teaching.html">teaching</a> &bull; <b>students</b> &bull; <a href="cv.html">cv</a> &bull; <a href="drp.html">drp</a> &bull; <a href="nednt.html">nednt</a>
-</p>
-
-</span></nav>
-
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const current = window.location.pathname.replace(/\/$/, "");
+  document.querySelectorAll(".site-nav a").forEach(link => {
+    const href = link.getAttribute("href").replace(/\/$/, "");
+    if (href === current) {
+      link.classList.add("current");
+      link.removeAttribute("href"); // disables the link
+    }
+  });
+});
+</script>
 
 <p>
 If you are a student who would like to learn more about my research

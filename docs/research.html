@@ -12,13 +12,28 @@
 <body>
 <div id="content" class="content">
 <h1 class="title">Felipe A. Ramírez</h1>
-<nav class="site-nav"><span class="site-nav-inner">
+<nav class="site-nav">
+  <a href="/index.html">about</a>
+  <a href="/research.html">research</a>
+  <a href="/teaching.html">teaching</a>
+  <a href="/students.html">students</a>
+  <a href="/cv.html">cv</a>
+  <a href="/drp.html">drp</a> 
+  <a href="/nednt.html">nednt</a>
+</nav>
 
-<p>
-<a href="index.html">about</a> &bull; <b>research</b> &bull; <a href="teaching.html">teaching</a> &bull; <a href="students.html">students</a> &bull; <a href="cv.html">cv</a> &bull; <a href="drp.html">drp</a> &bull; <a href="nednt.html">nednt</a>
-</p>
-
-</span></nav>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const current = window.location.pathname.replace(/\/$/, "");
+  document.querySelectorAll(".site-nav a").forEach(link => {
+    const href = link.getAttribute("href").replace(/\/$/, "");
+    if (href === current) {
+      link.classList.add("current");
+      link.removeAttribute("href"); // disables the link
+    }
+  });
+});
+</script>
 
 <p>
 My research is in ergodic theory and dynamical systems, Diophantine
@@ -55,13 +70,6 @@ approximation, and fractal geometry. Most of my papers are on the
 </tr>
 
 <tr>
-<td class="org-left">Toward Khintchine's theorem with a moving target: extra divergence or finitely centered target</td>
-<td class="org-left">G. Michaud</td>
-<td class="org-left"><i>Mathematika</i></td>
-<td class="org-right">2026</td>
-</tr>
-
-<tr>
 <td class="org-left">General Duffin&#x2013;Schaeffer-type counterexamples in Diophantine approximation</td>
 <td class="org-left">S. Chow, M. Hauke, A. Pollington</td>
 <td class="org-left"><i>Mathematika</i>,  Special Wooley Issue</td>
@@ -69,10 +77,10 @@ approximation, and fractal geometry. Most of my papers are on the
 </tr>
 
 <tr>
-<td class="org-left">Metric bootstraps for limsup sets</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left"><i>Transactions of the American Mathematical Society</i></td>
-<td class="org-right">2025</td>
+<td class="org-left">Toward Khintchine's theorem with a moving target: extra divergence or finitely centered target</td>
+<td class="org-left">G. Michaud</td>
+<td class="org-left"><i>Mathematika</i></td>
+<td class="org-right">2026</td>
 </tr>
 
 <tr>
@@ -80,6 +88,13 @@ approximation, and fractal geometry. Most of my papers are on the
 <td class="org-left">M. Hauke</td>
 <td class="org-left"><i>Submitted</i></td>
 <td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Metric bootstraps for limsup sets</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><i>Transactions of the American Mathematical Society</i></td>
+<td class="org-right">2025</td>
 </tr>
 
 <tr>

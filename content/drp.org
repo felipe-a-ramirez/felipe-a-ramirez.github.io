@@ -1,16 +1,5 @@
 #+title: Felipe A. Ramírez
-
-
-#+begin_export html
-<nav class="site-nav"><span class="site-nav-inner">
-#+end_export
-
-[[file:index.org][about]] @@html:&bull;@@ [[file:research.org][research]] @@html:&bull;@@ [[file:teaching.org][teaching]] @@html:&bull;@@ [[file:students.org][students]] @@html:&bull;@@ [[file:cv.org][cv]] @@html:&bull;@@ *drp* @@html:&bull;@@ [[file:nednt.org][nednt]]
-
-#+begin_export html
-</span></nav>
-#+end_export
-
+#+include: "nav.org"
 
 
 I am the faculty contact for [[https://mathcs-graduate.wescreates.wesleyan.edu/drp/][Wesleyan’s Directed Reading Program]]
