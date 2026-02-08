@@ -90,8 +90,14 @@ a:hover{
   background-color: var(--bg);
   border-bottom: 1px solid var(--border);
 
-  padding: 0.5rem 0;
+  padding: 0.5rem 1ch;   /* vertical | horizontal */
 }
+
+.site-nav{
+  border-radius: 0 0 var(--standard-border-radius)
+                  var(--standard-border-radius);
+}
+
 .site-nav{
   box-shadow: 0 2px 6px rgba(0,0,0,0.06);
 }
