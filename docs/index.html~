@@ -8,6 +8,7 @@
 <title>Felipe A. Ramírez</title>
 <meta name="generator" content="Org Mode" />
 <link rel="stylesheet" type="text/css" href="simple.css" />
+      <link rel="icon" href="/favicon_R.svg">
 </head>
 <body>
 <div id="content" class="content">
@@ -31,6 +32,38 @@ document.addEventListener("DOMContentLoaded", function () {
       link.classList.add("current");
       link.removeAttribute("href"); // disables the link
     }
+  });
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll("table.publist").forEach(function(table) {
+
+    const rows = table.querySelectorAll("tbody tr");
+    let n = rows.length;
+
+    rows.forEach(function(row) {
+      const cell = row.cells[0];
+
+      const num = document.createElement("span");
+      num.className = "pubnum";
+      num.textContent = n + ".";
+
+      cell.prepend(num);
+
+      n--;
+    });
+
+  });
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll('a[href$=".pdf"]').forEach(function(link) {
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener");
   });
 });
 </script>

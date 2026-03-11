@@ -1,17 +1,123 @@
 #+title: Felipe A. Ramírez
 #+include: "nav.org"
 
-My research is in ergodic theory and dynamical systems, Diophantine
-approximation, and fractal geometry. Most of my papers are on the
-[[https://arxiv.org/a/ramirez_f_1.html][arxiv]].
+My research is in Diophantine approximation, metric number theory,
+ergodic theory and dynamical systems, and fractal geometry. Most of my
+papers are on the [[https://arxiv.org/a/ramirez_f_1.html][arxiv]].
 
+
+#+ATTR_HTML: :reversed t :class publist
+ 1. Duffin--Schaeffer examples, real residue systems, and Bohr-set primes \\
+    with S. M. Hesseling \\
+    /Submitted/
+    
+ 2. Twisted approximation with restricted denominators \\
+    with M. Hauke \\
+    /Submitted/
+    
+ 3. The Duffin--Schaeffer conjecture with a moving target \\
+    with M. Hauke \\
+    /Submitted/
+    
+ 4. General Duffin--Schaeffer-type counterexamples in Diophantine approximation \\
+    with S. Chow, M. Hauke, and A. Pollington \\
+    /Mathematika/,  Special Wooley Issue, to appear
+    
+ 5. Metric bootstraps for limsup sets \\
+    /Transactions of the American Mathematical Society/, 2026 \\
+    
+ 6. Toward Khintchine's theorem with a moving target: extra divergence or finitely centered target \\
+    with G. Michaud \\ 
+    /Mathematika/, 2026
+    
+ 7. Inhomogeneous approximation for systems of linear forms with primitivity constraints \\
+    with D. Allen \\
+    /Mathematische Zeitschrift/, 2025
+    
+ 8. The Duffin--Schaeffer conjecture for systems of linear forms \\
+    /Journal of the London Mathematical Society/, 2024
+
+ 9. Independence inheritance and Diophantine approximation for systems of linear forms \\
+    with D. Allen \\
+    /International Mathematics Research Notices/, 2023
+    
+ 10. Diophantine approximation in metric space \\
+     with J. Fraser, H. Koivusalo \\
+     /Bulletin of the London Mathematical Society/, 2023
+
+ 11. Dirichlet is not just bad and singular \\
+     with V. Beresnevich, L. Guan, A. Marnat, S. Velani \\
+     /Advances in Mathematics/, 2022
+
+ 12. Remarks about inhomogeneous pair correlations \\
+     /Mathematical Proceedings of the Cambridge Philosophical Society/, 2022
+
+ 13. A note on sequences not having metric Poissonian pair correlations \\
+     /Archiv der Mathematik/, 2021
+
+ 14. Khintchine's theorem with random fractions \\
+     /Mathematika/, 2020
+
+ 15. A characterization of bad approximability \\
+     /Nonlinearity/, 2018
+
+ 16. Recurrence to shrinking targets on typical self-affine fractals \\
+     with H. Koivusalo \\
+     /Proceedings of the Edinburgh Mathematical Society/, 2018
+
+ 17. Rational approximation of affine coordinate subspaces of Euclidean space \\
+     with D. S. Simmons, F. Sueess \\
+     /Acta Arithmetica/, 2017
+
+ 18. Different speeds suffice for rendezvous of two agents in arbitrary graphs \\
+     with E. Kranakis, D. Krizanc, E. Markou, A. Pagourtzis \\
+     /SOFSEM/, 2017
+
+ 19. Counterexamples, covering systems, and zero-one laws for inhomogeneous approximation \\
+     /International Journal of Number Theory/, 2017
+
+ 20. Higher cohomology of parabolic actions on certain homogeneous spaces \\
+     /Journal d'Analyse Mathematique/, 2017
+
+ 21. Metric Diophantine Approximation: aspects of recent work \\
+     with V. Beresnevich, S. Velani \\
+     /LMS Lecture Notes Series/, 2016
+
+ 22. Khintchine types of translated coordinate hyperplanes \\
+     /Acta Arithmetica/, 2015
+
+ 23. Limit theorems for rank-one Lie groups \\
+     with A. Gorodnik \\
+     /Proceedings of the American Mathematical Society/, 2014
+
+ 24. Invariant distributions and cohomology for geodesic flows and higher cohomology of higher-rank Anosov actions \\
+     /Journal of Functional Analysis/, 2013
+
+ 25. Higher cohomology for Anosov actions on certain homogeneous spaces \\
+     /Journal d'Analyse Mathematique/, 2013
+
+ 26. Smooth cocycles over homogeneous dynamical systems \\
+     Dissertation, University of Michigan, 2010
+
+ 27. Cocycles over higher-rank abelian actions on quotients of semisimple Lie groups \\
+     /Journal of Modern Dynamics/, 2009
+
+
+
+
+
+#+begin_comment
+
+
+#+ATTR_HTML: :class publist
 | title                                                                                                         | co-authors                                        | journal                                                           |      year |
 |---------------------------------------------------------------------------------------------------------------+---------------------------------------------------+-------------------------------------------------------------------+-----------|
+| Duffin--Schaeffer examples, real residue systems, and Bohr-set primes                                         | S. M. Hesseling                                   | /Submitted/                                               |           |
 | Twisted approximation with restricted denominators                                                            | M. Hauke                                          | /Submitted/                                                       |           |
-| General Duffin--Schaeffer-type counterexamples in Diophantine approximation                                   | S. Chow, M. Hauke, A. Pollington                  | /Mathematika/,  Special Wooley Issue                              | to appear |
-| Toward Khintchine's theorem with a moving target: extra divergence or finitely centered target                | G. Michaud                                        | /Mathematika/                                                     |      2026 |
 | The Duffin--Schaeffer conjecture with a moving target                                                         | M. Hauke                                          | /Submitted/                                                       |           |
-| Metric bootstraps for limsup sets                                                                             |                                                   | /Transactions of the American Mathematical Society/               |      2025 |
+| General Duffin--Schaeffer-type counterexamples in Diophantine approximation                                   | S. Chow, M. Hauke, A. Pollington                  | /Mathematika/,  Special Wooley Issue                              | to appear |
+| Metric bootstraps for limsup sets                                                                             |                                                   | /Transactions of the American Mathematical Society/               |      2026 |
+| Toward Khintchine's theorem with a moving target: extra divergence or finitely centered target                | G. Michaud                                        | /Mathematika/                                                     |      2026 |
 | Inhomogeneous approximation for systems of linear forms with primitivity constraints                          | D. Allen                                          | /Mathematische Zeitschrift/                                       |      2025 |
 | The Duffin--Schaeffer conjecture for systems of linear forms                                                  |                                                   | /Journal of the London Mathematical Society/                      |      2024 |
 | Independence inheritance and Diophantine approximation for systems of linear forms                            | D. Allen                                          | /International Mathematics Research Notices/                      |      2023 |
@@ -33,8 +139,6 @@ approximation, and fractal geometry. Most of my papers are on the
 | Higher cohomology for Anosov actions on certain homogeneous spaces                                            |                                                   | /Journal d'Analyse Mathematique/                                  |      2013 |
 | Smooth cocycles over homogeneous dynamical systems                                                            |                                                   | Dissertation, University of Michigan                              |      2010 |
 | Cocycles over higher-rank abelian actions on quotients of semisimple Lie groups                               |                                                   | /Journal of Modern Dynamics/                                      |      2009 |
-
-#+begin_comment
 
 #+caption: Preprints
 | title                                                    | co-authors                                         | status           |

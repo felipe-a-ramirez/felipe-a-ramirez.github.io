@@ -6,6 +6,7 @@ Seminar. We maintain a [[https://www.youtube.com/channel/UCT-NXt5EErpcMJaOlribvF
 you are interested in participating.
 
 #+begin_comment
-[[file:spring-2026-schedule.org][Here]] is this semester's schedule of talks, updated regularly as the slots
+[[http://localhost:8080/schedule.html][Here]] is this semester's schedule of talks, updated regularly as the slots
 fill.
 #+end_comment
+

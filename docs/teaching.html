@@ -8,6 +8,28 @@
 <title>Felipe A. Ramírez</title>
 <meta name="generator" content="Org Mode" />
 <link rel="stylesheet" type="text/css" href="simple.css" />
+      <link rel="icon" href="/favicon_R.svg">
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content" class="content">
@@ -35,7 +57,255 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll("table.publist").forEach(function(table) {
 
+    const rows = table.querySelectorAll("tbody tr");
+    let n = rows.length;
+
+    rows.forEach(function(row) {
+      const cell = row.cells[0];
+
+      const num = document.createElement("span");
+      num.className = "pubnum";
+      num.textContent = n + ".";
+
+      cell.prepend(num);
+
+      n--;
+    });
+
+  });
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll('a[href$=".pdf"]').forEach(function(link) {
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener");
+  });
+});
+</script>
+
+
+<div id="outline-container-orgbb88ee3" class="outline-2">
+<h2 id="orgbb88ee3">present</h2>
+<div class="outline-text-2" id="text-orgbb88ee3">
+<p>
+<details><summary>Graduate Analysis: Measure Theory and
+Functional Analysis</summary>
+</p>
+
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">problem set (<a href="514-homework-2026.pdf">solutions/guidance</a>)</th>
+<th scope="col" class="org-left">due</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Stein&#x2013;Shakarchi, Exercises 2.16, 2.18, 2.19</td>
+<td class="org-left">February 9</td>
+</tr>
+
+<tr>
+<td class="org-left">Stein&#x2013;Shakarchi, Exercises 6.1, 6.2, 6.3</td>
+<td class="org-left">February 16</td>
+</tr>
+
+<tr>
+<td class="org-left">Stein&#x2013;Shakarchi, Exercises 6.13, 6.14, 6.16</td>
+<td class="org-left">Feburary 23</td>
+</tr>
+
+<tr>
+<td class="org-left">Stein&#x2013;Shakarchi, Exercises 3.4, 3.7, 3.8, 3.9</td>
+<td class="org-left">March 6</td>
+</tr>
+
+<tr>
+<td class="org-left">Stein&#x2013;Shakarchi, Exercises 6.10, 6.11</td>
+<td class="org-left">March 30</td>
+</tr>
+</tbody>
+</table>
+
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">day</th>
+<th scope="col" class="org-left">topic</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">1</td>
+<td class="org-left">Snow day!</td>
+</tr>
+
+<tr>
+<td class="org-right">2</td>
+<td class="org-left">Recollections; Fubini's theorem and applications</td>
+</tr>
+
+<tr>
+<td class="org-right">3</td>
+<td class="org-left">More applications and discussion of proof</td>
+</tr>
+
+<tr>
+<td class="org-right">4</td>
+<td class="org-left">Proof of Fubini; abstract measure spaces</td>
+</tr>
+
+<tr>
+<td class="org-right">5</td>
+<td class="org-left">Outer measures; premeasures</td>
+</tr>
+
+<tr>
+<td class="org-right">6</td>
+<td class="org-left">Algebras and premeasures</td>
+</tr>
+
+<tr>
+<td class="org-right">7</td>
+<td class="org-left">Integration, general Fubini</td>
+</tr>
+
+<tr>
+<td class="org-right">8</td>
+<td class="org-left">Lebesgue&#x2013;Stieltjes measures, Borel measures</td>
+</tr>
+
+<tr>
+<td class="org-right">9</td>
+<td class="org-left">Snow day!</td>
+</tr>
+
+<tr>
+<td class="org-right">10</td>
+<td class="org-left">Lebesgue differentiation theorem, Lebesgue density theorem</td>
+</tr>
+
+<tr>
+<td class="org-right">11</td>
+<td class="org-left">Proof of Lebesgue differentiation theorem</td>
+</tr>
+
+<tr>
+<td class="org-right">12</td>
+<td class="org-left">Absolute continuity, signed measures</td>
+</tr>
+</tbody>
+</table>
+
+
+
+<p>
+</details>
+</p>
+
+<p>
+<details><summary> Advanced Topics in Analysis: Ergodic
+Theory </summary>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">day</th>
+<th scope="col" class="org-left">topic</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">1</td>
+<td class="org-left">Basic examples and motivation</td>
+</tr>
+
+<tr>
+<td class="org-right">2</td>
+<td class="org-left">More examples and motivation</td>
+</tr>
+
+<tr>
+<td class="org-right">3</td>
+<td class="org-left">Measure spaces</td>
+</tr>
+
+<tr>
+<td class="org-right">4</td>
+<td class="org-left">More about measures; null sets</td>
+</tr>
+
+<tr>
+<td class="org-right">5</td>
+<td class="org-left">Tent map; Definition of measure</td>
+</tr>
+
+<tr>
+<td class="org-right">6</td>
+<td class="org-left">Nonmeasurable sets; mixing</td>
+</tr>
+
+<tr>
+<td class="org-right">7</td>
+<td class="org-left">Leading digits of \(2^n\); more mixing</td>
+</tr>
+
+<tr>
+<td class="org-right">8</td>
+<td class="org-left">Recurrence</td>
+</tr>
+
+<tr>
+<td class="org-right">9</td>
+<td class="org-left">Szemeredi's theorem</td>
+</tr>
+
+<tr>
+<td class="org-right">10</td>
+<td class="org-left">Ergodicity</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+</details>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdc94af3" class="outline-2">
+<h2 id="orgdc94af3">past</h2>
+<div class="outline-text-2" id="text-orgdc94af3">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -121,6 +391,8 @@ document.addEventListener("DOMContentLoaded", function () {
 </tr>
 </tbody>
 </table>
+</div>
+</div>
 </div>
 </body>
 </html>
