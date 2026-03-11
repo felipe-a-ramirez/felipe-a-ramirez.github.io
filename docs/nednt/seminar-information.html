@@ -14,21 +14,27 @@
 <div id="content" class="content">
 <h1 class="title">New England Dynamics and Number Theory Seminar</h1>
 <nav class="site-nav">
-  <a href="/seminar-information.html">Seminar Information</a>
-  <a href="/schedule.html">Schedule</a>
-  <a href="/titles-abstracts.html">Titles and Abstracts</a>
-  <a href="/past-semesters.html">Past Semesters</a>
+  <a href="./seminar-information.html">Seminar Information</a>
+  <a href="./schedule.html">Schedule</a>
+  <a href="./titles-abstracts.html">Titles and Abstracts</a>
+  <a href="./past-semesters.html">Past Semesters</a>
 </nav>
-
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const current = window.location.pathname.replace(/\/$/, "");
+  let currentPath = window.location.pathname
+    .replace(/\/index\.html$/, "/")
+    .replace(/\/$/, "");
+
   document.querySelectorAll(".site-nav a").forEach(link => {
-    const href = link.getAttribute("href").replace(/\/$/, "");
-    if (href === current) {
+    const url = new URL(link.getAttribute("href"), document.baseURI);
+    let linkPath = url.pathname
+      .replace(/\/index\.html$/, "/")
+      .replace(/\/$/, "");
+
+    if (linkPath === currentPath) {
       link.classList.add("current");
-      link.removeAttribute("href"); // disables the link
+      link.removeAttribute("href");
     }
   });
 });

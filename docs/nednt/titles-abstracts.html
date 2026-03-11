@@ -35,21 +35,27 @@
 <div id="content" class="content">
 <h1 class="title">New England Dynamics and Number Theory Seminar</h1>
 <nav class="site-nav">
-  <a href="/seminar-information.html">Seminar Information</a>
-  <a href="/schedule.html">Schedule</a>
-  <a href="/titles-abstracts.html">Titles and Abstracts</a>
-  <a href="/past-semesters.html">Past Semesters</a>
+  <a href="./seminar-information.html">Seminar Information</a>
+  <a href="./schedule.html">Schedule</a>
+  <a href="./titles-abstracts.html">Titles and Abstracts</a>
+  <a href="./past-semesters.html">Past Semesters</a>
 </nav>
-
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const current = window.location.pathname.replace(/\/$/, "");
+  let currentPath = window.location.pathname
+    .replace(/\/index\.html$/, "/")
+    .replace(/\/$/, "");
+
   document.querySelectorAll(".site-nav a").forEach(link => {
-    const href = link.getAttribute("href").replace(/\/$/, "");
-    if (href === current) {
+    const url = new URL(link.getAttribute("href"), document.baseURI);
+    let linkPath = url.pathname
+      .replace(/\/index\.html$/, "/")
+      .replace(/\/$/, "");
+
+    if (linkPath === currentPath) {
       link.classList.add("current");
-      link.removeAttribute("href"); // disables the link
+      link.removeAttribute("href");
     }
   });
 });
@@ -57,9 +63,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-<div id="outline-container-orgf48c780" class="outline-2">
-<h2 id="orgf48c780">Spring 2026</h2>
-<div class="outline-text-2" id="text-orgf48c780">
+<div id="outline-container-org4fd2f73" class="outline-2">
+<h2 id="org4fd2f73">Spring 2026</h2>
+<div class="outline-text-2" id="text-org4fd2f73">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
