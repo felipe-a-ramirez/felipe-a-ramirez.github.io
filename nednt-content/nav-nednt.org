@@ -1,0 +1,47 @@
+#+BEGIN_EXPORT html
+<nav class="site-nav">
+  <a href="./seminar-information.html">Seminar Information</a>
+  <a href="./schedule.html">Schedule</a>
+  <a href="./titles-abstracts.html">Titles and Abstracts</a>
+  <a href="./past-semesters.html">Past Semesters</a>
+</nav>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  let currentPath = window.location.pathname
+    .replace(/\/index\.html$/, "/")
+    .replace(/\/$/, "");
+
+  document.querySelectorAll(".site-nav a").forEach(link => {
+    const url = new URL(link.getAttribute("href"), document.baseURI);
+    let linkPath = url.pathname
+      .replace(/\/index\.html$/, "/")
+      .replace(/\/$/, "");
+
+    if (linkPath === currentPath) {
+      link.classList.add("current");
+      link.removeAttribute("href");
+    }
+  });
+});
+</script>
+#+END_EXPORT
+
+#+begin_comment
+#+BEGIN_EXPORT html
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const current = window.location.pathname.replace(/\/$/, "");
+  document.querySelectorAll(".site-nav a").forEach(link => {
+    const href = link.getAttribute("href").replace(/\/$/, "");
+    if (href === current) {
+      link.classList.add("current");
+      link.removeAttribute("href"); // disables the link
+    }
+  });
+});
+</script>
+#+END_EXPORT
+#+end_comment
