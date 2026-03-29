@@ -90,9 +90,9 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 
-<div id="outline-container-orgbb88ee3" class="outline-2">
-<h2 id="orgbb88ee3">present</h2>
-<div class="outline-text-2" id="text-orgbb88ee3">
+<div id="outline-container-org7146da3" class="outline-2">
+<h2 id="org7146da3">present</h2>
+<div class="outline-text-2" id="text-org7146da3">
 <p>
 <details><summary>Graduate Analysis: Measure Theory and
 Functional Analysis</summary>
@@ -241,7 +241,7 @@ Theory </summary>
 <thead>
 <tr>
 <th scope="col" class="org-right">day</th>
-<th scope="col" class="org-left">topic</th>
+<th scope="col" class="org-left">topic (<a href="255-homework-2026.pdf">notes and questions</a>)</th>
 </tr>
 </thead>
 <tbody>
@@ -303,9 +303,9 @@ Theory </summary>
 </div>
 </div>
 
-<div id="outline-container-orgdc94af3" class="outline-2">
-<h2 id="orgdc94af3">past</h2>
-<div class="outline-text-2" id="text-orgdc94af3">
+<div id="outline-container-orgd66440e" class="outline-2">
+<h2 id="orgd66440e">past</h2>
+<div class="outline-text-2" id="text-orgd66440e">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 

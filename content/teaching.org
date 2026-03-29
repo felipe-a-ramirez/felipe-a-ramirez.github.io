@@ -39,7 +39,7 @@ Functional Analysis@@html:</summary>@@
 @@html:<details><summary>@@ Advanced Topics in Analysis: Ergodic
 Theory @@html:</summary>@@
 
-    | day | topic                                |
+    | day | topic ([[file:255-homework-2026.pdf][notes and questions]])          |
     |-----+--------------------------------------|
     |   1 | Basic examples and motivation        |
     |   2 | More examples and motivation         |
