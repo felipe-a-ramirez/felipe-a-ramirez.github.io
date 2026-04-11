@@ -1,0 +1,62 @@
+#+BEGIN_EXPORT html
+<nav class="site-nav">
+  <a href="/index.html">about</a>
+  <a href="/research.html">research</a>
+  <a href="/teaching.html">teaching</a>
+  <a href="/students.html">students</a>
+  <a href="/cv.html">cv</a>
+  <a href="/drp.html">drp</a> 
+  <a href="/nednt.html">nednt</a>
+</nav>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const current = window.location.pathname.replace(/\/$/, "");
+  document.querySelectorAll(".site-nav a").forEach(link => {
+    const href = link.getAttribute("href").replace(/\/$/, "");
+    if (href === current) {
+      link.classList.add("current");
+      link.removeAttribute("href"); // disables the link
+    }
+  });
+});
+</script>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll("table.publist").forEach(function(table) {
+
+    const rows = table.querySelectorAll("tbody tr");
+    let n = rows.length;
+
+    rows.forEach(function(row) {
+      const cell = row.cells[0];
+
+      const num = document.createElement("span");
+      num.className = "pubnum";
+      num.textContent = n + ".";
+
+      cell.prepend(num);
+
+      n--;
+    });
+
+  });
+});
+</script>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll('a[href$=".pdf"]').forEach(function(link) {
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener");
+  });
+});
+</script>
+#+END_EXPORT

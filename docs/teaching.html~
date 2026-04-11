@@ -90,9 +90,9 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 
-<div id="outline-container-orga7bf43a" class="outline-2">
-<h2 id="orga7bf43a">present</h2>
-<div class="outline-text-2" id="text-orga7bf43a">
+<div id="outline-container-org857be48" class="outline-2">
+<h2 id="org857be48">present</h2>
+<div class="outline-text-2" id="text-org857be48">
 <p>
 <details><summary>Graduate Analysis: Measure Theory and
 Functional Analysis</summary>
@@ -216,6 +216,11 @@ Functional Analysis</summary>
 <td class="org-right">12</td>
 <td class="org-left">Absolute continuity, signed measures</td>
 </tr>
+
+<tr>
+<td class="org-right">13</td>
+<td class="org-left">Hahn decomposition; Radon&#x2013;Nikodym theorem</td>
+</tr>
 </tbody>
 </table>
 
@@ -294,6 +299,16 @@ Theory </summary>
 <td class="org-right">10</td>
 <td class="org-left">Ergodicity</td>
 </tr>
+
+<tr>
+<td class="org-right">11</td>
+<td class="org-left">Equivalent formulations</td>
+</tr>
+
+<tr>
+<td class="org-right">12</td>
+<td class="org-left">Ergodicity of circle expanding maps</td>
+</tr>
 </tbody>
 </table>
 
@@ -303,9 +318,9 @@ Theory </summary>
 </div>
 </div>
 
-<div id="outline-container-org20ca1d4" class="outline-2">
-<h2 id="org20ca1d4">past</h2>
-<div class="outline-text-2" id="text-org20ca1d4">
+<div id="outline-container-orgc4d6c7f" class="outline-2">
+<h2 id="orgc4d6c7f">past</h2>
+<div class="outline-text-2" id="text-orgc4d6c7f">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
