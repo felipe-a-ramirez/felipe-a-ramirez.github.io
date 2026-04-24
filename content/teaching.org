@@ -8,31 +8,41 @@
 Functional Analysis@@html:</summary>@@
 
 
- | problem set ([[file:514-homework-2026.pdf][solutions/guidance]])               | due         |
- |------------------------------------------------+-------------|
- | Stein--Shakarchi, Exercises 2.16, 2.18, 2.19   | February 9  |
- | Stein--Shakarchi, Exercises 6.1, 6.2, 6.3      | February 16 |
- | Stein--Shakarchi, Exercises 6.13, 6.14, 6.16   | Feburary 23 |
- | Stein--Shakarchi, Exercises 3.4, 3.7, 3.8, 3.9 | March 6     |
- | Stein--Shakarchi, Exercises 6.10, 6.11         | March 30    |
-        
-   
- | day | topic                                                      |
- |-----+------------------------------------------------------------|
- |   1 | Snow day!                                                  |
- |   2 | Recollections; Fubini's theorem and applications           |
- |   3 | More applications and discussion of proof                  |
- |   4 | Proof of Fubini; abstract measure spaces                   |
- |   5 | Outer measures; premeasures                                |
- |   6 | Algebras and premeasures                                   |
- |   7 | Integration, general Fubini                                |
- |   8 | Lebesgue--Stieltjes measures, Borel measures               |
- |   9 | Snow day!                                                  |
- |  10 | Lebesgue differentiation theorem, Lebesgue density theorem |
- |  11 | Proof of Lebesgue differentiation theorem                  |
- |  12 | Absolute continuity, signed measures                       |
- |  13 | Hahn decomposition; Radon--Nikodym theorem                 |
+ | problem set ([[file:514-homework-2026.pdf][solutions/guidance]])                                     | due         |
+ |----------------------------------------------------------------------+-------------|
+ | Stein--Shakarchi, Exercises 2.16, 2.18, 2.19                         | February 9  |
+ | Stein--Shakarchi, Exercises 6.1, 6.2, 6.3                            | February 16 |
+ | Stein--Shakarchi, Exercises 6.13, 6.14, 6.16                         | Feburary 23 |
+ | Stein--Shakarchi, Exercises 3.4, 3.7, 3.8, 3.9                       | March 6     |
+ | Stein--Shakarchi, Exercises 6.10, 6.11                               | March 30    |
+ | Stein--Shakarchi, Exercises 4.1, 4.4, 4.5, 4.6, 4.10, 4.11           | April 20    |
+ | Stein--Shakarchi, Exercises 4.15, 4.18, 4.19, 4.20, 4.22, 4.29, 4.30 | May 4       |
 
+   
+ | day(s) | topic(s)                                                   |
+ |--------+------------------------------------------------------------|
+ |      1 | Snow day!                                                  |
+ |      2 | Recollections; Fubini's theorem and applications           |
+ |      3 | More applications and discussion of proof                  |
+ |      4 | Proof of Fubini; abstract measure spaces                   |
+ |      5 | Outer measures; premeasures                                |
+ |      6 | Algebras and premeasures                                   |
+ |      7 | Integration, general Fubini                                |
+ |      8 | Lebesgue--Stieltjes measures, Borel measures               |
+ |      9 | Snow day!                                                  |
+ |     10 | Lebesgue differentiation theorem, Lebesgue density theorem |
+ |     11 | Proof of Lebesgue differentiation theorem                  |
+ |     12 | Absolute continuity, signed measures                       |
+ |     13 | Hahn decomposition; Radon--Nikodym theorem                 |
+ |     14 | L^2 is a Hilbert space                                     |
+ |     15 | Hilbert spaces, examples, orthonormal sets                 |
+ |     16 | Gram--Schmidt; unitary mappings; projections               |
+ |     17 | Orthogonal complement, orthogonal projection; operators    |
+ |     18 | Bounded operators; functionals                             |
+ |     19 | Adjoint operators                                          |
+ |     20 | Compact operators                                          |
+ |     21 | Spectral theorem                                           |
+ |     22 | Banach spaces                                              |
 
 
 @@html:</details>@@
@@ -40,20 +50,28 @@ Functional Analysis@@html:</summary>@@
 @@html:<details><summary>@@ Advanced Topics in Analysis: Ergodic
 Theory @@html:</summary>@@
 
-    | day | topic ([[file:255-homework-2026.pdf][notes and questions]])          |
-    |-----+--------------------------------------|
-    |   1 | Basic examples and motivation        |
-    |   2 | More examples and motivation         |
-    |   3 | Measure spaces                       |
-    |   4 | More about measures; null sets       |
-    |   5 | Tent map; Definition of measure      |
-    |   6 | Nonmeasurable sets; mixing           |
-    |   7 | Leading digits of $2^n$; more mixing |
-    |   8 | Recurrence                           |
-    |   9 | Szemeredi's theorem                  |
-    |  10 | Ergodicity                           |
-    |  11 | Equivalent formulations              |
-    |  12 | Ergodicity of circle expanding maps  |
+    | day(s) | topic(s) ([[file:255-homework-2026.pdf][notes and questions]])            |
+    |--------+-------------------------------------------|
+    |      1 | Basic examples and motivation             |
+    |      2 | More examples and motivation              |
+    |      3 | Measure spaces                            |
+    |      4 | More about measures; null sets            |
+    |      5 | Tent map; Definition of measure           |
+    |      6 | Nonmeasurable sets; mixing                |
+    |      7 | Leading digits of $2^n$; more mixing      |
+    |      8 | Recurrence                                |
+    |      9 | Szemeredi's theorem                       |
+    |     10 | Ergodicity                                |
+    |     11 | Equivalent formulations                   |
+    |     12 | Ergodicity of circle expanding maps       |
+    |     13 | Measurable functions, invariant functions |
+    |     14 | Ergodicity and invariant functions        |
+    |     15 | More functional analysis                  |
+    |     16 | Back to measurable functions              |
+    |     17 | Integration                               |
+    |     18 | Interchanging limits and integrals        |
+    |     19 | Some limit theorems                       |
+    |     20 | Continued fractions, Gauss map            |
 
 @@html:</details>@@
 
