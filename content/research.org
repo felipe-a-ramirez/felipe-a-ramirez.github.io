@@ -21,7 +21,7 @@ papers are on the [[https://arxiv.org/a/ramirez_f_1.html][arxiv]].
     
  3. The Duffin--Schaeffer conjecture with a moving target \\
     with M. Hauke \\
-    /Submitted/
+    /Discrete Analysis/, to appear
     
  4. General Duffin--Schaeffer-type counterexamples in Diophantine approximation \\
     with S. Chow, M. Hauke, and A. Pollington \\
