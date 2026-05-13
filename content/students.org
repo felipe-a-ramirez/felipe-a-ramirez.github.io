@@ -9,27 +9,11 @@ Reading Program]] (DRP).
 Here are my current and former students, and the titles of their
 theses and projects:
 
-#+begin_comment
-| student           | degree                 | thesis/project                                                                                                  |
-|-------------------+------------------------+-----------------------------------------------------------------------------------------------------------------|
-| Stefan Hesseling  | M.A., 2026 (expected)  | TBD                                                                                                             |
-| Gilbert Michaud   | Ph.D., 2027 (expected) | TBD                                                                                                             |
-| Stefan Hesseling  | B.A.,2025              | On the Lagrange and Markov spectra                                                                              |
-| Nachama Stern     | M.A., 2024             | Quantitative density for random and deterministic processes                                                     |
-| Daniel Barrueco   | M.A., 2022             | Ergodic theory, entropy, and times 2 times 3                                                                    |
-| Dan Alvey         | Ph.D., 2021            | Approximation on affine subspaces                                                                               |
-| Andre P. Oliveira | Ph.D., 2021            | Diophantine approximation with restrictions coming from different places                                        |
-| Prayag Chatha     | M.A., 2017             | Close enough: a dynamical approach to the Littlewood Conjecture                                                 |
-| Max Ryan          | M.A., 2016             | Continued fractions: a geometric perspective                                                                    |
-| Prayag Chatha     | B.A., 2016             | Scrambled cats and normal numbers: an introduction to dynamical systems and their number-theoretic applications |
-#+end_comment
-
 #+ATTR_HTML: :reversed t :class publist
-1. Stefan Hesseling, /TBD/ \\
-   M.A., 2026 (expected)
-   
-2. Gilbert Michaud, /TBD/ \\
+1. Gilbert Michaud, /TBD/ \\
    Ph.D., 2027 (expected)
+2. Stefan Hesseling, /Prescribing behavior in Duffin--Schaeffer-type examples/ \\
+   M.A., 2026
 3. Stefan Hesseling, /On the Lagrange and Markov spectra/ \\
    B.A., 2025
 4. Nachama Stern, /Quantitative density for random and deterministic processes/ \\
