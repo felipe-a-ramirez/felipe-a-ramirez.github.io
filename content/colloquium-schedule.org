@@ -7,20 +7,20 @@
 *  Fall 2026 Schedule
 
 
-| date         | speaker      | title        |
-|--------------+--------------+--------------|
-| 24 September |              |              |
-| 1 October    |              |              |
-| 8 October    |              |              |
-| 15 October   | ---          | ---          |
-| 22 October   |              |              |
-| 29 October   |              |              |
-| 5 November   |              |              |
-| 12 November  |              |              |
-| 19 November  |              |              |
-| 26 November  | Thanksgiving | Thanksgiving |
-| 3 December   |              |              |
-| 10 December  |              |              |
+| date         | speaker | title        |
+|--------------+---------+--------------|
+| 24 September |         |              |
+| 1 October    |         |              |
+| 8 October    |         |              |
+| 15 October   | ---     | ---          |
+| 22 October   |         |              |
+| 29 October   |         |              |
+| 5 November   |         |              |
+| 12 November  |         |              |
+| 19 November  |         |              |
+| 26 November  | ---     | ---          |
+| 3 December   |         |              |
+| 10 December  |         |              |
 
 
 @@html:<small>@@ Contact: [[file:index.html][Felipe A. Ramírez]]@@html:</small>@@
