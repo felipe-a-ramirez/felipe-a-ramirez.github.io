@@ -1,0 +1,5 @@
+#+title: Felipe A. Ramírez
+#+include: "nav.org"
+
+
+I am the Math Colloquium organizer this semester. Here is the [[https://felipe-a-ramirez.github.io/colloquium-schedule.html][schedule]].

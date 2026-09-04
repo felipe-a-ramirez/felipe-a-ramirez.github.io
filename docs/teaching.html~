@@ -9,27 +9,6 @@
 <meta name="generator" content="Org Mode" />
 <link rel="stylesheet" type="text/css" href="simple.css" />
       <link rel="icon" href="/favicon_R.svg">
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        displayAlign: "center",
-        displayIndent: "0em",
-
-        "HTML-CSS": { scale: 100,
-                        linebreaks: { automatic: "false" },
-                        webFont: "TeX"
-                       },
-        SVG: {scale: 100,
-              linebreaks: { automatic: "false" },
-              font: "TeX"},
-        NativeMML: {scale: 100},
-        TeX: { equationNumbers: {autoNumber: "AMS"},
-               MultLineWidth: "85%",
-               TagSide: "right",
-               TagIndent: ".8em"
-             }
-});
-</script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content" class="content">
@@ -42,6 +21,7 @@
   <a href="/cv.html">cv</a>
   <a href="/drp.html">drp</a> 
   <a href="/nednt.html">nednt</a>
+  <a href="/colloquium.html">colloquium</a>
 </nav>
 
 <script>
@@ -90,12 +70,46 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 
-<div id="outline-container-org03e025d" class="outline-2">
-<h2 id="org03e025d">present</h2>
-<div class="outline-text-2" id="text-org03e025d">
+<div id="outline-container-org2b899ba" class="outline-2">
+<h2 id="org2b899ba">current semester</h2>
+<div class="outline-text-2" id="text-org2b899ba">
 <p>
-<details><summary>Graduate Analysis: Measure Theory and
-Functional Analysis</summary>
+<details><summary>Metric Number Theory</summary>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Week</th>
+<th scope="col" class="org-left">Lecture 1</th>
+<th scope="col" class="org-left">Lecture 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">1. Metric phenomena</td>
+<td class="org-left">Overview: normality, equidistribution, Khintchine, Jarník–Besicovitch, Duffin–Schaeffer</td>
+<td class="org-left">Normal numbers; Borel's theorem; probabilistic formulation; Borel–Cantelli</td>
+</tr>
+</tbody>
+</table>
+
+
+<p>
+</details>
+</p>
+
+<p>
+<details><summary> Elementary Statistics </summary>
 </p>
 
 
@@ -109,172 +123,74 @@ Functional Analysis</summary>
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">problem set (<a href="514-homework-2026.pdf">solutions/guidance</a>)</th>
+<th scope="col" class="org-left">problem set</th>
 <th scope="col" class="org-left">due</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="org-left">Stein&#x2013;Shakarchi, Exercises 2.16, 2.18, 2.19</td>
-<td class="org-left">February 9</td>
+<td class="org-left">Utts&#x2013;Heckard, 5th ed., Exercises to be specified</td>
+<td class="org-left">September 18</td>
 </tr>
 
 <tr>
-<td class="org-left">Stein&#x2013;Shakarchi, Exercises 6.1, 6.2, 6.3</td>
-<td class="org-left">February 16</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">September 25</td>
 </tr>
 
 <tr>
-<td class="org-left">Stein&#x2013;Shakarchi, Exercises 6.13, 6.14, 6.16</td>
-<td class="org-left">Feburary 23</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">October 2</td>
 </tr>
 
 <tr>
-<td class="org-left">Stein&#x2013;Shakarchi, Exercises 3.4, 3.7, 3.8, 3.9</td>
-<td class="org-left">March 6</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">October 9</td>
 </tr>
 
 <tr>
-<td class="org-left">Stein&#x2013;Shakarchi, Exercises 6.10, 6.11</td>
-<td class="org-left">March 30</td>
+<td class="org-left">exam week</td>
+<td class="org-left">October 16</td>
 </tr>
 
 <tr>
-<td class="org-left">Stein&#x2013;Shakarchi, Exercises 4.1, 4.4, 4.5, 4.6, 4.10, 4.11</td>
-<td class="org-left">April 20</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">October 23</td>
 </tr>
 
 <tr>
-<td class="org-left">Stein&#x2013;Shakarchi, Exercises 4.15, 4.18, 4.19, 4.20, 4.22, 4.29, 4.30</td>
-<td class="org-left">May 4</td>
-</tr>
-</tbody>
-</table>
-
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-right" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-right">day(s)</th>
-<th scope="col" class="org-left">topic(s)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-right">1</td>
-<td class="org-left">Snow day!</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">October 30</td>
 </tr>
 
 <tr>
-<td class="org-right">2</td>
-<td class="org-left">Recollections; Fubini's theorem and applications</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">November 6</td>
 </tr>
 
 <tr>
-<td class="org-right">3</td>
-<td class="org-left">More applications and discussion of proof</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">November 13</td>
 </tr>
 
 <tr>
-<td class="org-right">4</td>
-<td class="org-left">Proof of Fubini; abstract measure spaces</td>
+<td class="org-left">exam week</td>
+<td class="org-left">November 20</td>
 </tr>
 
 <tr>
-<td class="org-right">5</td>
-<td class="org-left">Outer measures; premeasures</td>
+<td class="org-left">Thanksgiving</td>
+<td class="org-left">November 27</td>
 </tr>
 
 <tr>
-<td class="org-right">6</td>
-<td class="org-left">Algebras and premeasures</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">December 3</td>
 </tr>
 
 <tr>
-<td class="org-right">7</td>
-<td class="org-left">Integration, general Fubini</td>
-</tr>
-
-<tr>
-<td class="org-right">8</td>
-<td class="org-left">Lebesgue&#x2013;Stieltjes measures, Borel measures</td>
-</tr>
-
-<tr>
-<td class="org-right">9</td>
-<td class="org-left">Snow day!</td>
-</tr>
-
-<tr>
-<td class="org-right">10</td>
-<td class="org-left">Lebesgue differentiation theorem, Lebesgue density theorem</td>
-</tr>
-
-<tr>
-<td class="org-right">11</td>
-<td class="org-left">Proof of Lebesgue differentiation theorem</td>
-</tr>
-
-<tr>
-<td class="org-right">12</td>
-<td class="org-left">Absolute continuity, signed measures</td>
-</tr>
-
-<tr>
-<td class="org-right">13</td>
-<td class="org-left">Hahn decomposition; Radon&#x2013;Nikodym theorem</td>
-</tr>
-
-<tr>
-<td class="org-right">14</td>
-<td class="org-left">L<sup>2</sup> is a Hilbert space</td>
-</tr>
-
-<tr>
-<td class="org-right">15</td>
-<td class="org-left">Hilbert spaces, examples, orthonormal sets</td>
-</tr>
-
-<tr>
-<td class="org-right">16</td>
-<td class="org-left">Gram&#x2013;Schmidt; unitary mappings; projections</td>
-</tr>
-
-<tr>
-<td class="org-right">17</td>
-<td class="org-left">Orthogonal complement, orthogonal projection; operators</td>
-</tr>
-
-<tr>
-<td class="org-right">18</td>
-<td class="org-left">Bounded operators; functionals</td>
-</tr>
-
-<tr>
-<td class="org-right">19</td>
-<td class="org-left">Adjoint operators</td>
-</tr>
-
-<tr>
-<td class="org-right">20</td>
-<td class="org-left">Compact operators</td>
-</tr>
-
-<tr>
-<td class="org-right">21</td>
-<td class="org-left">Spectral theorem</td>
-</tr>
-
-<tr>
-<td class="org-right">22</td>
-<td class="org-left">Banach spaces</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">December 10</td>
 </tr>
 </tbody>
 </table>
@@ -283,138 +199,12 @@ Functional Analysis</summary>
 <p>
 </details>
 </p>
-
-<p>
-<details><summary> Advanced Topics in Analysis: Ergodic
-Theory </summary>
-</p>
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-right" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-right">day(s)</th>
-<th scope="col" class="org-left">topic(s) (<a href="255-homework-2026.pdf">notes and questions</a>)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-right">1</td>
-<td class="org-left">Basic examples and motivation</td>
-</tr>
-
-<tr>
-<td class="org-right">2</td>
-<td class="org-left">More examples and motivation</td>
-</tr>
-
-<tr>
-<td class="org-right">3</td>
-<td class="org-left">Measure spaces</td>
-</tr>
-
-<tr>
-<td class="org-right">4</td>
-<td class="org-left">More about measures; null sets</td>
-</tr>
-
-<tr>
-<td class="org-right">5</td>
-<td class="org-left">Tent map; Definition of measure</td>
-</tr>
-
-<tr>
-<td class="org-right">6</td>
-<td class="org-left">Nonmeasurable sets; mixing</td>
-</tr>
-
-<tr>
-<td class="org-right">7</td>
-<td class="org-left">Leading digits of \(2^n\); more mixing</td>
-</tr>
-
-<tr>
-<td class="org-right">8</td>
-<td class="org-left">Recurrence</td>
-</tr>
-
-<tr>
-<td class="org-right">9</td>
-<td class="org-left">Szemeredi's theorem</td>
-</tr>
-
-<tr>
-<td class="org-right">10</td>
-<td class="org-left">Ergodicity</td>
-</tr>
-
-<tr>
-<td class="org-right">11</td>
-<td class="org-left">Equivalent formulations</td>
-</tr>
-
-<tr>
-<td class="org-right">12</td>
-<td class="org-left">Ergodicity of circle expanding maps</td>
-</tr>
-
-<tr>
-<td class="org-right">13</td>
-<td class="org-left">Measurable functions, invariant functions</td>
-</tr>
-
-<tr>
-<td class="org-right">14</td>
-<td class="org-left">Ergodicity and invariant functions</td>
-</tr>
-
-<tr>
-<td class="org-right">15</td>
-<td class="org-left">More functional analysis</td>
-</tr>
-
-<tr>
-<td class="org-right">16</td>
-<td class="org-left">Back to measurable functions</td>
-</tr>
-
-<tr>
-<td class="org-right">17</td>
-<td class="org-left">Integration</td>
-</tr>
-
-<tr>
-<td class="org-right">18</td>
-<td class="org-left">Interchanging limits and integrals</td>
-</tr>
-
-<tr>
-<td class="org-right">19</td>
-<td class="org-left">Some limit theorems</td>
-</tr>
-
-<tr>
-<td class="org-right">20</td>
-<td class="org-left">Continued fractions, Gauss map</td>
-</tr>
-</tbody>
-</table>
-
-<p>
-</details>
-</p>
 </div>
 </div>
 
-<div id="outline-container-org2698da9" class="outline-2">
-<h2 id="org2698da9">past</h2>
-<div class="outline-text-2" id="text-org2698da9">
+<div id="outline-container-org743909a" class="outline-2">
+<h2 id="org743909a">past semesters</h2>
+<div class="outline-text-2" id="text-org743909a">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -433,6 +223,12 @@ Theory </summary>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td class="org-left">2026/27</td>
+<td class="org-left">Elementary Statistics; <br> Metric Number Theory (graduate topics)</td>
+<td class="org-left">Introduction to Real Analysis; <br> Stochastic Processes</td>
+</tr>
+
 <tr>
 <td class="org-left">2025/26</td>
 <td class="org-left">Probability Theory; <br> Differential Equations</td>
@@ -460,7 +256,7 @@ Theory </summary>
 <tr>
 <td class="org-left">2021/22</td>
 <td class="org-left">Probability Theory; <br> Discrete Mathematics</td>
-<td class="org-left">Metric Number Theory (graduate); <br> Calculus II</td>
+<td class="org-left">Metric Number Theory (graduate topics); <br> Calculus II</td>
 </tr>
 
 <tr>

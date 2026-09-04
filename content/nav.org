@@ -7,6 +7,7 @@
   <a href="/cv.html">cv</a>
   <a href="/drp.html">drp</a> 
   <a href="/nednt.html">nednt</a>
+  <a href="/colloquium.html">colloquium</a>
 </nav>
 #+END_EXPORT
 

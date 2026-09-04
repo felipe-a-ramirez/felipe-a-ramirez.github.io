@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" fill="white"/>
+
+  <!-- Square fundamental domain -->
+  <rect x="10" y="10" width="44" height="44" fill="none" stroke="black" stroke-width="3"/>
+
+  <!-- Textbook-style edge markings: matching ticks on opposite edges -->
+  <!-- Horizontal pair: single tick -->
+  <line x1="32" y1="7.5" x2="32" y2="12.5" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="32" y1="51.5" x2="32" y2="56.5" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Vertical pair: double tick -->
+  <line x1="7.5" y1="29" x2="12.5" y2="29" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="7.5" y1="35" x2="12.5" y2="35" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+
+  <line x1="51.5" y1="29" x2="56.5" y2="29" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="51.5" y1="35" x2="56.5" y2="35" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

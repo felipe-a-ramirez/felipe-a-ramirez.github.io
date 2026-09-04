@@ -1,7 +1,7 @@
 #+title: Felipe A. Ramírez
 #+include: "nav.org"
 
-I am a co-organizer of the [[http://nednt.wesleyan.edu/][New England Dynamics and Number Theory]]
+I am a co-organizer of the [[https://felipe-a-ramirez.github.io/nednt/seminar-information.html][New England Dynamics and Number Theory]]
 Seminar. We maintain a [[https://www.youtube.com/channel/UCT-NXt5EErpcMJaOlribvFw][YouTube channel]] with past talks. Write to me if
 you are interested in participating.
 

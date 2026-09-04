@@ -2,10 +2,14 @@
 #+include: "nav-nednt.org"
 
 
+* Fall 2026
 
-* Spring 2026
+To come...
 
 
+
+
+#+begin_comment
 | Diophantine approximation for hypersurfaces                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Alexander Smith, Northwestern University, 29 January 2026                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -58,6 +62,9 @@
 | *Abstract:* In this talk, I will introduce the class of geodesically rich representations. These are representations of (real or complex) hyperbolic lattices that preserve a significant amount of the geometric structure of the associated quotient manifold. When the quotient manifold has robust geometric structure, these representations exhibit rigidity phenomena. In particular, a recent superrigidity theorem for rich representations was used to prove that finite-volume hyperbolic manifolds with infinitely many maximal totally geodesic submanifolds are arithmetic (Bader-Fisher-Miller-Stover). I will discuss a new superrigidity theorem for rich representations that efficiently recovers existing results and addresses target groups that were previously inaccessible. |
 
 
+| Sets of exact(er) approximation order @@html:<id>@@ ward @@html:</id>@@                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Benjamin Ward, University of York, 30 April 2026                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| *Abstract:* I will present joint work with Simon Baker (Loughborough) where we introduce a quantitative notion of exactness within Diophantine approximation. Given functions Ψ : (0, ∞) → (0, ∞) and ω : (0, ∞) → (0, 1), we study the set of points that are Ψ-well approximable but not Ψ(1 − ω)-well approximable, denoted E(Ψ,ω). This generalises the set of Ψ-exact approximation order as studied by Bugeaud (Math. Ann. 2003). We prove results on the cardinality and Hausdorff dimension of E(Ψ,ω). In particular, for certain functions Ψ we find a critical threshold on ω whereby the set E(Ψ,ω) drops from positive Hausdorff dimension to empty when ω is multiplied by a constant. |
 
-
-
+#+end_comment

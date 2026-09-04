@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" fill="white"/>
+
+  <!-- Shorter, lighter norm bars for favicon legibility -->
+  <g fill="#000">
+    <rect x="9.0"  y="17.5" width="2.6" height="29" rx="0.6"/>
+    <rect x="14.2" y="17.5" width="2.6" height="29" rx="0.6"/>
+    <rect x="47.2" y="17.5" width="2.6" height="29" rx="0.6"/>
+    <rect x="52.4" y="17.5" width="2.6" height="29" rx="0.6"/>
+  </g>
+
+  <!-- More upright math text, slightly smaller for clearance -->
+  <text x="32" y="39.6"
+        text-anchor="middle"
+        font-size="27"
+        font-style="normal"
+        font-family="STIX Two Math, STIXGeneral, Cambria Math, Latin Modern Math, Times New Roman, serif"
+        fill="#000">nα</text>
+</svg>
