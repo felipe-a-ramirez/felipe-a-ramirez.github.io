@@ -5,7 +5,6 @@
 * current semester
 
 @@html:<details><summary>@@Metric Number Theory@@html:</summary>@@
-
  | Week                | Lecture 1                                                                               | Lecture 2                                                                  |
  |---------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------|
  | 1. Metric phenomena | Overview: normality, equidistribution, Khintchine, Jarník–Besicovitch, Duffin–Schaeffer | Normal numbers; Borel's theorem; probabilistic formulation; Borel–Cantelli |
@@ -34,23 +33,27 @@
 @@html:</details>@@
 
 @@html:<details><summary>@@ Elementary Statistics @@html:</summary>@@
-
-
- | problem set                                       | due          |
- |---------------------------------------------------+--------------|
- | Utts--Heckard, 5th ed., Exercises to be specified | September 18 |
- |                                                   | September 25 |
- |                                                   | October 2    |
- |                                                   | October 9    |
- | exam week                                         | October 16   |
- |                                                   | October 23   |
- |                                                   | October 30   |
- |                                                   | November 6   |
- |                                                   | November 13  |
- | exam week                                         | November 20  |
- | Thanksgiving                                      | November 27  |
- |                                                   | December 3   |
- |                                                   | December 10  |
+ *Homework:* I will post assigned reading and exercises here every
+  week. Section numbers and exercise numbers refer to /Mind on
+  Statistics/, by Utts and Heckard, 5th edition. @@html:<br>@@
+ *Submission:* Deliver a neatly-stapled hard copy to the box outside
+ my office, 619 Exley.
+ 
+ |     read | exercises                                                | due          |
+ |----------+----------------------------------------------------------+--------------|
+ | 2.1--2.7 | 2.3, 2.5, 2.11, 2.21, 2.22, 2.25, 2.30, 2.35, 2.59, 2.74 | September 18 |
+ |          |                                                          | September 25 |
+ |          |                                                          | October 2    |
+ |          |                                                          | October 9    |
+ |          | exam week                                                | October 16   |
+ |          |                                                          | October 23   |
+ |          |                                                          | October 30   |
+ |          |                                                          | November 6   |
+ |          |                                                          | November 13  |
+ |          | exam week                                                | November 20  |
+ |          | Thanksgiving                                             | November 27  |
+ |          |                                                          | December 3   |
+ |          |                                                          | December 10  |
 
 
 @@html:</details>@@
