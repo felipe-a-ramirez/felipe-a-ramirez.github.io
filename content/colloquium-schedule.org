@@ -22,5 +22,25 @@
 | 3 December   |                                     |       |
 | 10 December  |                                     |       |
 
+*  Spring 2027 Schedule
+
+
+| date        | speaker | title |
+|-------------+---------+-------|
+| 28 January  |         |       |
+| 4 February  |         |       |
+| 11 February |         |       |
+| 18 February |         |       |
+| 25 February |         |       |
+| 4 March     |         |       |
+| 11 March    | ---     | ---   |
+| 18 March    | ---     | ---   |
+| 25 March    |         |       |
+| 1 April     |         |       |
+| 8 April     |         |       |
+| 15 April    |         |       |
+| 22 April    |         |       |
+| 29 April    |         |       |
+
 
 @@html:<small>@@ Contact: [[file:index.html][Felipe A. Ramírez]]@@html:</small>@@

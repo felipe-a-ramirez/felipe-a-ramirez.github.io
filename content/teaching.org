@@ -5,9 +5,10 @@
 * current semester
 
 @@html:<details><summary>@@Metric Number Theory@@html:</summary>@@
- | Week                | Lecture 1                                                                               | Lecture 2                                                                  |
- |---------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------|
- | 1. Metric phenomena | Overview: normality, equidistribution, Khintchine, Jarník–Besicovitch, Duffin–Schaeffer | Normal numbers; Borel's theorem; probabilistic formulation; Borel–Cantelli |
+ | week                | lecture 1                                               | lecture 2                                                                                   |
+ |---------------------+---------------------------------------------------------+---------------------------------------------------------------------------------------------|
+ | 1. Metric phenomena | Overview: normality, equidistribution, Dirichlet        | Overview: Khintchine, Duffin--Schaeffer, Jarnik–Besicovitch; Equivalents to Borel's theorem |
+ | 2. Normality        | Borel--Cantelli, Chebyshev's inequality, Proof of Borel | Ergodic theoretic view                                                                      |
 
  
 #+begin_comment
