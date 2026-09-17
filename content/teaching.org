@@ -8,7 +8,8 @@
  | week                | lecture 1                                               | lecture 2                                                                                   |
  |---------------------+---------------------------------------------------------+---------------------------------------------------------------------------------------------|
  | 1. Metric phenomena | Overview: normality, equidistribution, Dirichlet        | Overview: Khintchine, Duffin--Schaeffer, Jarnik–Besicovitch; Equivalents to Borel's theorem |
- | 2. Normality        | Borel--Cantelli, Chebyshev's inequality, Proof of Borel | Ergodic theoretic view                                                                      |
+ | 2. Normality        | Borel--Cantelli, Chebyshev's inequality, Proof of Borel | Probabilistic viewpoint, ergodic theoretic viewpoint                                        |
+ | 3. Equidistribution | A bit more ergodic theory; equidistribution             |                                                                                             |
 
  
 #+begin_comment
@@ -35,6 +36,8 @@
 
 @@html:<details><summary>@@ Elementary Statistics @@html:</summary>@@
 
+[[https://felipe-a-ramirez.github.io/132-syllabus-2026.pdf][*Syllabus*]]
+
  *Homework:* I will post assigned reading and exercises here every week. Section numbers and exercise numbers refer to /Mind on Statistics/, by Utts and Heckard, 5th edition. @@html:<br>@@
  *Submission:* Deliver a neatly-stapled hard copy to the box outside
  my office, 619 Exley.
@@ -55,7 +58,9 @@
  |          |                                                          | December 3   |
  |          |                                                          | December 10  |
 
- *Classroom height data:*  71, 61, 64, 68, 67, 67, 68, 68, 63, 65, 64, 68, 71, 66, 71, 64, 70, 65, 68, 61, 67, 68, 62, 65, 74, 67, 73, 63, 74, 69, 68, 72, 74, 61, 70, 64, 63, 60, 69, 72, 67
+ *Classroom height data:* 71, 61, 64, 68, 67, 67, 68, 68, 63, 65, 64,
+ 68, 71, 66, 71, 64, 70, 65, 68, 61, 67, 68, 62, 65, 74, 67, 73, 63,
+ 74, 69, 68, 72, 74, 61, 70, 64, 63, 60, 69, 72, 67
 
 @@html:</details>@@
 
