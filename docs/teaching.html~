@@ -70,13 +70,12 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 
-<div id="outline-container-org026e111" class="outline-2">
-<h2 id="org026e111">current semester</h2>
-<div class="outline-text-2" id="text-org026e111">
+<div id="outline-container-org40c14b8" class="outline-2">
+<h2 id="org40c14b8">current semester</h2>
+<div class="outline-text-2" id="text-org40c14b8">
 <p>
 <details><summary>Metric Number Theory</summary>
 </p>
-
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -89,16 +88,28 @@ document.addEventListener("DOMContentLoaded", function () {
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">Week</th>
-<th scope="col" class="org-left">Lecture 1</th>
-<th scope="col" class="org-left">Lecture 2</th>
+<th scope="col" class="org-left">week</th>
+<th scope="col" class="org-left">lecture 1</th>
+<th scope="col" class="org-left">lecture 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td class="org-left">1. Metric phenomena</td>
-<td class="org-left">Overview: normality, equidistribution, Khintchine, Jarník–Besicovitch, Duffin–Schaeffer</td>
-<td class="org-left">Normal numbers; Borel's theorem; probabilistic formulation; Borel–Cantelli</td>
+<td class="org-left">Overview: normality, equidistribution, Dirichlet</td>
+<td class="org-left">Overview: Khintchine, Duffin&#x2013;Schaeffer, Jarnik–Besicovitch; Equivalents to Borel's theorem</td>
+</tr>
+
+<tr>
+<td class="org-left">2. Normality</td>
+<td class="org-left">Borel&#x2013;Cantelli, Chebyshev's inequality, Proof of Borel</td>
+<td class="org-left">Probabilistic viewpoint, ergodic theoretic viewpoint</td>
+</tr>
+
+<tr>
+<td class="org-left">3. Equidistribution</td>
+<td class="org-left">A bit more ergodic theory; equidistribution</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
 </table>
@@ -112,6 +123,15 @@ document.addEventListener("DOMContentLoaded", function () {
 <details><summary> Elementary Statistics </summary>
 </p>
 
+<p>
+<a target="_blank" rel="noopener noreferrer" href="https://felipe-a-ramirez.github.io/132-syllabus-2026.pdf"><b>Syllabus</b></a>
+</p>
+
+<p>
+<b>Homework:</b> I will post assigned reading and exercises here every week. Section numbers and exercise numbers refer to <i>Mind on Statistics</i>, by Utts and Heckard, 5th edition. <br>
+<b>Submission:</b> Deliver a neatly-stapled hard copy to the portfolio labeled <br> <code>MATH 132 HW</code>  <br> outside
+my office, 619 Exley.
+</p>
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -120,81 +140,102 @@ document.addEventListener("DOMContentLoaded", function () {
 <col  class="org-left" />
 
 <col  class="org-left" />
+
+<col  class="org-left" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">problem set</th>
+<th scope="col" class="org-left">read</th>
+<th scope="col" class="org-left">exercises</th>
 <th scope="col" class="org-left">due</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="org-left">Utts&#x2013;Heckard, 5th ed., Exercises to be specified</td>
-<td class="org-left">September 18</td>
+<td class="org-left">2.1&#x2013;2.7</td>
+<td class="org-left">2.3, 2.5, 2.11, 2.21, 2.22, 2.25, 2.30, 2.35, 2.59, 2.74</td>
+<td class="org-left">Sept 18</td>
+</tr>
+
+<tr>
+<td class="org-left">3.1&#x2013;3.5</td>
+<td class="org-left">2.37, 2.66, 2.94, 2.96, 3.2, 3.18, 3.22, 3.28, 3.34, 3.38, 3.44</td>
+<td class="org-left">Sept 25</td>
 </tr>
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">September 25</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Oct 2</td>
 </tr>
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">October 2</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Oct 9</td>
 </tr>
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">October 9</td>
-</tr>
-
-<tr>
 <td class="org-left">exam week</td>
-<td class="org-left">October 16</td>
+<td class="org-left">Oct 16</td>
 </tr>
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">October 23</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Oct 23</td>
 </tr>
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">October 30</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Oct 30</td>
 </tr>
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">November 6</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Nov 6</td>
 </tr>
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">November 13</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Nov 13</td>
 </tr>
 
 <tr>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">exam week</td>
-<td class="org-left">November 20</td>
+<td class="org-left">Nov 20</td>
 </tr>
 
 <tr>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">Thanksgiving</td>
-<td class="org-left">November 27</td>
+<td class="org-left">Nov 27</td>
 </tr>
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">December 3</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Dec 3</td>
 </tr>
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">December 10</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Dec 10</td>
 </tr>
 </tbody>
 </table>
 
+<p>
+<b>Classroom height data:</b> 71, 61, 64, 68, 67, 67, 68, 68, 63, 65, 64,
+68, 71, 66, 71, 64, 70, 65, 68, 61, 67, 68, 62, 65, 74, 67, 73, 63,
+74, 69, 68, 72, 74, 61, 70, 64, 63, 60, 69, 72, 67
+</p>
 
 <p>
 </details>
@@ -202,9 +243,9 @@ document.addEventListener("DOMContentLoaded", function () {
 </div>
 </div>
 
-<div id="outline-container-org6993e9c" class="outline-2">
-<h2 id="org6993e9c">past semesters</h2>
-<div class="outline-text-2" id="text-org6993e9c">
+<div id="outline-container-orgdbc9818" class="outline-2">
+<h2 id="orgdbc9818">past semesters</h2>
+<div class="outline-text-2" id="text-orgdbc9818">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
