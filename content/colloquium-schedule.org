@@ -7,40 +7,40 @@
 *  Fall 2026 Schedule
 
 
-| date         | speaker                             | title |
-|--------------+-------------------------------------+-------|
-| 24 September |                                     |       |
-| 1 October    |                                     |       |
-| 8 October    |                                     |       |
-| 15 October   | ---                                 | ---   |
-| 22 October   |                                     |       |
-| 29 October   | Matthew Trang (Wesleyan University) | TBA   |
-| 5 November   | Joe Macula (Wake Forest University) | TBA   |
-| 12 November  |                                     |       |
-| 19 November  |                                     |       |
-| 26 November  | ---                                 | ---   |
-| 3 December   |                                     |       |
-| 10 December  |                                     |       |
+| date   | speaker                             | title |
+|--------+-------------------------------------+-------|
+| Sep 24 |                                     |       |
+| Oct 1  | Jenna Zomback                       | TBA   |
+| Oct 8  |                                     |       |
+| Oct 15 | ---                                 | ---   |
+| Oct 22 |                                     |       |
+| Oct 29 | Matthew Trang (Wesleyan University) | TBA   |
+| Nov 5  | Joe Macula (Wake Forest University) | TBA   |
+| Nov 12 |                                     |       |
+| Nov 19 |                                     |       |
+| Nov 26 | ---                                 | ---   |
+| Dec 3  |                                     |       |
+| Dec 10 |                                     |       |
 
 *  Spring 2027 Schedule
 
 
-| date        | speaker                              | title |
-|-------------+--------------------------------------+-------|
-| 28 January  |                                      |       |
-| 4 February  |                                      |       |
-| 11 February | Jayadev Athreya (Fordham University) | TBA   |
-| 18 February |                                      |       |
-| 25 February |                                      |       |
-| 4 March     |                                      |       |
-| 11 March    | ---                                  | ---   |
-| 18 March    | ---                                  | ---   |
-| 25 March    |                                      |       |
-| 1 April     |                                      |       |
-| 8 April     |                                      |       |
-| 15 April    |                                      |       |
-| 22 April    |                                      |       |
-| 29 April    |                                      |       |
+| date   | speaker                              | title |
+|--------+--------------------------------------+-------|
+| Jan 28 |                                      |       |
+| Feb 4  |                                      |       |
+| Feb 11 | Jayadev Athreya (Fordham University) | TBA   |
+| Feb 18 |                                      |       |
+| Feb 25 |                                      |       |
+| Mar 4  |                                      |       |
+| Mar 11 | ---                                  | ---   |
+| Mar 18 | ---                                  | ---   |
+| Mar 25 |                                      |       |
+| Apr 1  |                                      |       |
+| Apr 8  |                                      |       |
+| Apr 15 |                                      |       |
+| Apr 22 |                                      |       |
+| Apr 29 |                                      |       |
 
 
 @@html:<small>@@ Contact: [[file:index.html][Felipe A. Ramírez]]@@html:</small>@@

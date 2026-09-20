@@ -70,9 +70,9 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 
-<div id="outline-container-org40c14b8" class="outline-2">
-<h2 id="org40c14b8">current semester</h2>
-<div class="outline-text-2" id="text-org40c14b8">
+<div id="outline-container-org1c30616" class="outline-2">
+<h2 id="org1c30616">current semester</h2>
+<div class="outline-text-2" id="text-org1c30616">
 <p>
 <details><summary>Metric Number Theory</summary>
 </p>
@@ -129,7 +129,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>
 <b>Homework:</b> I will post assigned reading and exercises here every week. Section numbers and exercise numbers refer to <i>Mind on Statistics</i>, by Utts and Heckard, 5th edition. <br>
-<b>Submission:</b> Deliver a neatly-stapled hard copy to the portfolio labeled <br> <code>MATH 132 HW</code>  <br> outside
+<b>Submission:</b> Deliver a neatly-stapled hard copy to the portfolio labeled "<code>MATH 132 HW</code>" outside
 my office, 619 Exley.
 </p>
 
@@ -243,9 +243,9 @@ my office, 619 Exley.
 </div>
 </div>
 
-<div id="outline-container-orgdbc9818" class="outline-2">
-<h2 id="orgdbc9818">past semesters</h2>
-<div class="outline-text-2" id="text-orgdbc9818">
+<div id="outline-container-org960084c" class="outline-2">
+<h2 id="org960084c">past semesters</h2>
+<div class="outline-text-2" id="text-org960084c">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
