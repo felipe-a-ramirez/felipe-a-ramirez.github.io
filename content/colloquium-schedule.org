@@ -9,13 +9,12 @@
 
 | date   | speaker                             | title |
 |--------+-------------------------------------+-------|
-| Sep 24 |                                     |       |
-| Oct 1  | Jenna Zomback                       | TBA   |
+| Oct 1  | [[https://sites.google.com/view/zomback][Jenna Zomback]] (Amherst College)     | TBA   |
 | Oct 8  |                                     |       |
 | Oct 15 | ---                                 | ---   |
 | Oct 22 |                                     |       |
-| Oct 29 | Matthew Trang (Wesleyan University) | TBA   |
-| Nov 5  | Joe Macula (Wake Forest University) | TBA   |
+| Oct 29 | [[https://www.wesleyan.edu/about/directory/profile.html?id=mtrang][Matthew Trang]] (Wesleyan University) | TBA   |
+| Nov 5  | [[https://sites.google.com/view/joe-macula][Joe Macula]] (Wake Forest University) | TBA   |
 | Nov 12 |                                     |       |
 | Nov 19 |                                     |       |
 | Nov 26 | ---                                 | ---   |
