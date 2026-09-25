@@ -9,7 +9,7 @@
  |---------------------+---------------------------------------------------------+---------------------------------------------------------------------------------------------|
  | 1. Metric phenomena | Overview: normality, equidistribution, Dirichlet        | Overview: Khintchine, Duffin--Schaeffer, Jarnik–Besicovitch; Equivalents to Borel's theorem |
  | 2. Normality        | Borel--Cantelli, Chebyshev's inequality, Proof of Borel | Probabilistic viewpoint, ergodic theoretic viewpoint                                        |
- | 3. Equidistribution | A bit more ergodic theory; equidistribution             |                                                                                             |
+ | 3. Equidistribution | A bit more ergodic theory; equidistribution             | Weyl's criterion, Van Der Corput                                                            |
 
  
 #+begin_comment
@@ -42,21 +42,21 @@
  *Submission:* Deliver a neatly-stapled hard copy to the portfolio labeled "=MATH 132 HW=" outside
  my office, 619 Exley.
  
- |     read | exercises ([[https://felipe-a-ramirez.github.io/132-homework-2026.pdf][solutions]])                                           | due     |
- |----------+-----------------------------------------------------------------+---------|
- | 2.1--2.7 | 2.3, 2.5, 2.11, 2.21, 2.22, 2.25, 2.30, 2.35, 2.59, 2.74        | Sept 18 |
- | 3.1--3.5 | 2.37, 2.66, 2.94, 2.96, 3.2, 3.18, 3.22, 3.28, 3.34, 3.38, 3.44 | Sept 25 |
- |          |                                                                 | Oct 2   |
- |          |                                                                 | Oct 9   |
- |          | exam week                                                       | Oct 16  |
- |          |                                                                 | Oct 23  |
- |          |                                                                 | Oct 30  |
- |          |                                                                 | Nov 6   |
- |          |                                                                 | Nov 13  |
- |          | exam week                                                       | Nov 20  |
- |          | Thanksgiving                                                    | Nov 27  |
- |          |                                                                 | Dec 3   |
- |          |                                                                 | Dec 10  |
+ |                    read | exercises ([[https://felipe-a-ramirez.github.io/132-homework-2026.pdf][solutions]])                                           | due     |
+ |-------------------------+-----------------------------------------------------------------+---------|
+ |                2.1--2.7 | 2.3, 2.5, 2.11, 2.21, 2.22, 2.25, 2.30, 2.35, 2.59, 2.74        | Sept 18 |
+ |                3.1--3.5 | 2.37, 2.66, 2.94, 2.96, 3.2, 3.18, 3.22, 3.28, 3.34, 3.38, 3.44 | Sept 25 |
+ | 4.1, 4.3, 5.1, 5.3--5.6 | 3.47, 3.72, 3.81, 3.82, 4.4, 4.28, 5.3, 5.13, 5.16              | Oct 2   |
+ |                         |                                                                 | Oct 9   |
+ |                         | exam week                                                       | Oct 16  |
+ |                         |                                                                 | Oct 23  |
+ |                         |                                                                 | Oct 30  |
+ |                         |                                                                 | Nov 6   |
+ |                         |                                                                 | Nov 13  |
+ |                         | exam week                                                       | Nov 20  |
+ |                         | Thanksgiving                                                    | Nov 27  |
+ |                         |                                                                 | Dec 3   |
+ |                         |                                                                 | Dec 10  |
 
  *Classroom height data:* 71, 61, 64, 68, 67, 67, 68, 68, 63, 65, 64,
  68, 71, 66, 71, 64, 70, 65, 68, 61, 67, 68, 62, 65, 74, 67, 73, 63,

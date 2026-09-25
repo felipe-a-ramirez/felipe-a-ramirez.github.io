@@ -4,19 +4,19 @@
 
 * Fall 2026
 
-| Date   | Speaker       | Affiliation         | Title |
-|--------+---------------+---------------------+-------|
-| Oct 1  |               |                     |       |
-| Oct 8  | [[https://sites.google.com/view/taehyeong-kim][Taehyeong Kim]] | Brandeis University | TBA   |
-| Oct 15 |               |                     |       |
-| Oct 22 |               |                     |       |
-| Oct 29 |               |                     |       |
-| Nov 5  |               |                     |       |
-| Nov 12 |               |                     |       |
-| Nov 19 |               |                     |       |
-| Nov 26 | no talk       |                     |       |
-| Dec 3  |               |                     |       |
-| Dec 10 |               |                     |       |
+| Date   | Speaker       | Affiliation         | Title                                                |
+|--------+---------------+---------------------+------------------------------------------------------|
+| Oct 1  |               |                     |                                                      |
+| Oct 8  | [[https://sites.google.com/view/taehyeong-kim][Taehyeong Kim]] | Brandeis University | A zero–one law for twisted Diophantine approximation |
+| Oct 15 |               |                     |                                                      |
+| Oct 22 |               |                     |                                                      |
+| Oct 29 |               |                     |                                                      |
+| Nov 5  |               |                     |                                                      |
+| Nov 12 |               |                     |                                                      |
+| Nov 19 |               |                     |                                                      |
+| Nov 26 | no talk       |                     |                                                      |
+| Dec 3  |               |                     |                                                      |
+| Dec 10 |               |                     |                                                      |
 
 #+begin_comment
 | Date     | Speaker            | Affiliation               | Title                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
