@@ -70,9 +70,9 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 
-<div id="outline-container-org82f17cc" class="outline-2">
-<h2 id="org82f17cc">current semester</h2>
-<div class="outline-text-2" id="text-org82f17cc">
+<div id="outline-container-org42937ce" class="outline-2">
+<h2 id="org42937ce">current semester</h2>
+<div class="outline-text-2" id="text-org42937ce">
 <p>
 <details><summary>Metric Number Theory</summary>
 </p>
@@ -109,7 +109,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <tr>
 <td class="org-left">3. Equidistribution</td>
 <td class="org-left">A bit more ergodic theory; equidistribution</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Weyl's criterion, Van Der Corput</td>
 </tr>
 </tbody>
 </table>
@@ -164,8 +164,8 @@ my office, 619 Exley.
 </tr>
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">4.1, 4.3, 5.1, 5.3&#x2013;5.6</td>
+<td class="org-left">3.47, 3.72, 3.81, 3.82, 4.4, 4.28, 5.3, 5.13, 5.16</td>
 <td class="org-left">Oct 2</td>
 </tr>
 
@@ -243,9 +243,9 @@ my office, 619 Exley.
 </div>
 </div>
 
-<div id="outline-container-org913ab9d" class="outline-2">
-<h2 id="org913ab9d">past semesters</h2>
-<div class="outline-text-2" id="text-org913ab9d">
+<div id="outline-container-org5e5911a" class="outline-2">
+<h2 id="org5e5911a">past semesters</h2>
+<div class="outline-text-2" id="text-org5e5911a">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 

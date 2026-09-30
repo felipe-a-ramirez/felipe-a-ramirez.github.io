@@ -6,24 +6,24 @@
 
 *  Fall 2026 Schedule
 
-
-| date   | speaker                             | title |
-|--------+-------------------------------------+-------|
-| Oct 1  | [[https://sites.google.com/view/zomback][Jenna Zomback]] (Amherst College)     | TBA   |
-| Oct 8  |                                     |       |
-| Oct 15 | ---                                 | ---   |
-| Oct 22 |                                     |       |
-| Oct 29 | [[https://www.wesleyan.edu/about/directory/profile.html?id=mtrang][Matthew Trang]] (Wesleyan University) | TBA   |
-| Nov 5  | [[https://sites.google.com/view/joe-macula][Joe Macula]] (Wake Forest University) | TBA   |
-| Nov 12 |                                     |       |
-| Nov 19 |                                     |       |
-| Nov 26 | ---                                 | ---   |
-| Dec 3  |                                     |       |
-| Dec 10 |                                     |       |
+#+ATTR_HTML: :class schedule
+| date   | speaker                             | title                           |
+|--------+-------------------------------------+---------------------------------|
+| Oct 1  | [[https://sites.google.com/view/zomback][Jenna Zomback]] (Amherst College)     | Chaining in measurable dynamics |
+| Oct 8  |                                     |                                 |
+| Oct 15 | ---                                 | ---                             |
+| Oct 22 |                                     |                                 |
+| Oct 29 | [[https://www.wesleyan.edu/about/directory/profile.html?id=mtrang][Matthew Trang]] (Wesleyan University) | TBA                             |
+| Nov 5  | [[https://sites.google.com/view/joe-macula][Joe Macula]] (Wake Forest University) | TBA                             |
+| Nov 12 |                                     |                                 |
+| Nov 19 |                                     |                                 |
+| Nov 26 | ---                                 | ---                             |
+| Dec 3  |                                     |                                 |
+| Dec 10 |                                     |                                 |
 
 *  Spring 2027 Schedule
 
-
+#+ATTR_HTML: :class schedule
 | date   | speaker                              | title |
 |--------+--------------------------------------+-------|
 | Jan 28 |                                      |       |
