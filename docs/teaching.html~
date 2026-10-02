@@ -91,9 +91,9 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 
-<div id="outline-container-org7a3aada" class="outline-2">
-<h2 id="org7a3aada">current semester</h2>
-<div class="outline-text-2" id="text-org7a3aada">
+<div id="outline-container-org14aa852" class="outline-2">
+<h2 id="org14aa852">current semester</h2>
+<div class="outline-text-2" id="text-org14aa852">
 <details>
 <summary>Metric Number Theory</summary>
 
@@ -200,7 +200,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <tr>
 <td class="org-left">Oct 16</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">exam week</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 <tr>
@@ -230,7 +230,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <tr>
 <td class="org-left">Nov 20</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">exam week</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 <tr>
@@ -265,9 +265,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-<div id="outline-container-org7c14817" class="outline-2">
-<h2 id="org7c14817">past semesters</h2>
-<div class="outline-text-2" id="text-org7c14817">
+<div id="outline-container-org31e0714" class="outline-2">
+<h2 id="org31e0714">past semesters</h2>
+<div class="outline-text-2" id="text-org31e0714">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 

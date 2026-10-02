@@ -31,6 +31,7 @@
 ;; Make external links (http/https) open in a new tab in HTML export.
 (require 'ox-html)
 
+
 (defun framirez/org-html-external-links-new-tab (link backend _info)
   "Add target=_blank and rel=noopener noreferrer to external links in HTML export."
   (when (and (eq backend 'html)
