@@ -250,13 +250,12 @@ details table + table{
   margin-top: 1.2rem;
 }
 /* Schedule: keep dates and speakers together on larger screens */
-table.schedule td:first-child,
-table.schedule th:first-child,
+table.schedule td:nth-child(1),
+table.schedule th:nth-child(1),
 table.schedule td:nth-child(2),
 table.schedule th:nth-child(2) {
-  white-space: nowrap;
+    white-space: nowrap;
 }
-
 /* On phones, allow speaker/affiliation to wrap */
 @media (max-width: 700px) {
   table.schedule td:nth-child(2),

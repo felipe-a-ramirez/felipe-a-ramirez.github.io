@@ -9,6 +9,27 @@
 <meta name="generator" content="Org Mode" />
 <link rel="stylesheet" type="text/css" href="simple.css" />
       <link rel="icon" href="/favicon_R.svg">
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content" class="content">
@@ -70,12 +91,12 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 
-<div id="outline-container-org0de84e7" class="outline-2">
-<h2 id="org0de84e7">current semester</h2>
-<div class="outline-text-2" id="text-org0de84e7">
-<p>
-<details><summary>Metric Number Theory</summary>
-</p>
+<div id="outline-container-org7a3aada" class="outline-2">
+<h2 id="org7a3aada">current semester</h2>
+<div class="outline-text-2" id="text-org7a3aada">
+<details>
+<summary>Metric Number Theory</summary>
+
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -109,31 +130,32 @@ document.addEventListener("DOMContentLoaded", function () {
 <tr>
 <td class="org-left">3. Equidistribution</td>
 <td class="org-left">A bit more ergodic theory; equidistribution</td>
-<td class="org-left">Weyl's criterion, Van Der Corput</td>
+<td class="org-left">Weyl's criterion, Van Der Corput, polynomial sequences</td>
+</tr>
+
+<tr>
+<td class="org-left">4. Metric equidistribution</td>
+<td class="org-left">Metric questions for \((n\alpha)\); \(L^2\) arguments</td>
+<td class="org-left">Davenport–Erdős–LeVeque; pivot to Diophantine approximation</td>
 </tr>
 </tbody>
 </table>
 
-
-<p>
 </details>
-</p>
+
+<details>
+<summary>Elementary Statistics</summary>
 
 <p>
-<details><summary> Elementary Statistics </summary>
-</p>
-
-<p>
-<a target="_blank" rel="noopener noreferrer" href="https://felipe-a-ramirez.github.io/132-syllabus-2026.pdf"><b>Syllabus</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://felipe-a-ramirez.github.io/132-syllabus-2026.pdf"><b>Syllabus</b></a> 
 </p>
 
 <p>
 <b>Homework:</b> I will post assigned reading and exercises here every week. Section numbers and exercise numbers refer to <i>Mind on Statistics</i>, by Utts and Heckard, 5th edition. <br>
-<b>Submission:</b> Deliver a neatly-stapled hard copy to the portfolio labeled "<code>MATH 132 HW</code>" outside
-my office, 619 Exley.
+<b>Submission:</b> Deliver a neatly-stapled hard copy to the portfolio labeled "<code>MATH 132 HW</code>" outside my office, 619 Exley.
 </p>
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides" class="schedule">
 
 
 <colgroup>
@@ -145,88 +167,88 @@ my office, 619 Exley.
 </colgroup>
 <thead>
 <tr>
+<th scope="col" class="org-left">due</th>
 <th scope="col" class="org-left">read</th>
 <th scope="col" class="org-left">exercises (<a target="_blank" rel="noopener noreferrer" href="https://felipe-a-ramirez.github.io/132-homework-2026.pdf">solutions</a>)</th>
-<th scope="col" class="org-left">due</th>
 </tr>
 </thead>
 <tbody>
 <tr>
+<td class="org-left">Sept 18</td>
 <td class="org-left">2.1&#x2013;2.7</td>
 <td class="org-left">2.3, 2.5, 2.11, 2.21, 2.22, 2.25, 2.30, 2.35, 2.59, 2.74</td>
-<td class="org-left">Sept 18</td>
 </tr>
 
 <tr>
+<td class="org-left">Sept 25</td>
 <td class="org-left">3.1&#x2013;3.5</td>
 <td class="org-left">2.37, 2.66, 2.94, 2.96, 3.2, 3.18, 3.22, 3.28, 3.34, 3.38, 3.44</td>
-<td class="org-left">Sept 25</td>
 </tr>
 
 <tr>
+<td class="org-left">Oct 2</td>
 <td class="org-left">4.1, 4.3, 5.1, 5.3&#x2013;5.6</td>
 <td class="org-left">3.47, 3.72, 3.81, 3.82, 4.4, 4.28, 5.3, 5.13, 5.16</td>
-<td class="org-left">Oct 2</td>
 </tr>
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
 <td class="org-left">Oct 9</td>
+<td class="org-left">6.1, 7.1&#x2013;7.4</td>
+<td class="org-left">6.4, 6.5, 6.14, 7.3, 7.7, 7.20, 7.22, 7.26, 7.30, 7.38</td>
 </tr>
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">exam week</td>
 <td class="org-left">Oct 16</td>
-</tr>
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Oct 23</td>
-</tr>
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Oct 30</td>
-</tr>
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Nov 6</td>
-</tr>
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Nov 13</td>
-</tr>
-
-<tr>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">exam week</td>
-<td class="org-left">Nov 20</td>
 </tr>
 
 <tr>
+<td class="org-left">Oct 23</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Oct 30</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Nov 6</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Nov 13</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Nov 20</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">exam week</td>
+</tr>
+
+<tr>
+<td class="org-left">Nov 27</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">Thanksgiving</td>
-<td class="org-left">Nov 27</td>
 </tr>
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
 <td class="org-left">Dec 3</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
 <td class="org-left">Dec 10</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
 </table>
@@ -237,15 +259,15 @@ my office, 619 Exley.
 74, 69, 68, 72, 74, 61, 70, 64, 63, 60, 69, 72, 67
 </p>
 
-<p>
 </details>
-</p>
 </div>
 </div>
 
-<div id="outline-container-orgb527694" class="outline-2">
-<h2 id="orgb527694">past semesters</h2>
-<div class="outline-text-2" id="text-orgb527694">
+
+
+<div id="outline-container-org7c14817" class="outline-2">
+<h2 id="org7c14817">past semesters</h2>
+<div class="outline-text-2" id="text-org7c14817">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
