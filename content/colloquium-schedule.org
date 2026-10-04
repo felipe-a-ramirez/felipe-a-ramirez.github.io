@@ -7,19 +7,20 @@
 *  Fall 2026 Schedule
 
 #+ATTR_HTML: :class schedule
-| date                             | speaker                                | title                           |
-|----------------------------------+----------------------------------------+---------------------------------|
-| Oct 1                            | [[https://sites.google.com/view/zomback][Jenna Zomback]] (Amherst College)        | Chaining in measurable dynamics |
-| Oct 8                            |                                        |                                 |
-| Oct 15 @@html:<br>@@ Casper A203 | [[https://sites.google.com/view/manuelhauke/][Manuel Hauke-Treuer]] (TU Graz, Austria) | TBA                             |
-| Oct 22                           |                                        |                                 |
-| Oct 29                           | [[https://www.wesleyan.edu/about/directory/profile.html?id=mtrang][Matthew Trang]] (Wesleyan University)    | TBA                             |
-| Nov 5                            | [[https://sites.google.com/view/joe-macula][Joe Macula]] (Wake Forest University)    | TBA                             |
-| Nov 12                           |                                        |                                 |
-| Nov 19                           | [[https://sites.google.com/view/ruihan/home][Rui Han]] (Louisiana State University)   | TBA                             |
-| Nov 26                           | ---                                    | ---                             |
-| Dec 3                            |                                        |                                 |
-| Dec 10                           |                                        |                                 |
+| date                             | speaker                                              | title                                                                                |
+|----------------------------------+------------------------------------------------------+--------------------------------------------------------------------------------------|
+| Oct 1                            | [[https://sites.google.com/view/zomback][Jenna Zomback]]  @@html:<br>@@  Amherst College        | Chaining in measurable dynamics                                                      |
+| Oct 8                            |                                                      |                                                                                      |
+| Oct 15 @@html:<br>@@ Casper A203 | [[https://sites.google.com/view/manuelhauke/][Manuel Hauke-Treuer]]  @@html:<br>@@  TU Graz, Austria | Covering the circle with random arcs, with applications to Diophantine approximation |
+| Oct 22                           |                                                      |                                                                                      |
+| Oct 29                           | [[https://www.wesleyan.edu/about/directory/profile.html?id=mtrang][Matthew Trang]]  @@html:<br>@@  Wesleyan Univ          | TBA                                                                                  |
+| Nov 5                            | [[https://sites.google.com/view/joe-macula][Joe Macula]]  @@html:<br>@@  Wake Forest Univ          | TBA                                                                                  |
+| Nov 12                           |                                                      |                                                                                      |
+| Nov 19                           | [[https://sites.google.com/view/ruihan/home][Rui Han]]  @@html:<br>@@  Louisiana State Univ         | TBA                                                                                  |
+| Nov 26                           | ---                                                  | ---                                                                                  |
+| Dec 3                            |                                                      |                                                                                      |
+| Dec 10                           |                                                      |                                                                                      |
+
 
 *  Spring 2027 Schedule
 
