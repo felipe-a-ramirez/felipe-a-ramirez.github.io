@@ -10,12 +10,13 @@
 <summary>Metric Number Theory</summary>
 #+END_EXPORT
 
-| week                       | lecture 1                                               | lecture 2                                                                                   |
-|----------------------------+---------------------------------------------------------+---------------------------------------------------------------------------------------------|
-| 1. Metric phenomena        | Overview: normality, equidistribution, Dirichlet        | Overview: Khintchine, Duffin--Schaeffer, Jarnik–Besicovitch; Equivalents to Borel's theorem |
-| 2. Normality               | Borel--Cantelli, Chebyshev's inequality, Proof of Borel | Probabilistic viewpoint, ergodic theoretic viewpoint                                        |
-| 3. Equidistribution        | A bit more ergodic theory; equidistribution             | Weyl's criterion, Van Der Corput, polynomial sequences                                      |
-| 4. Metric equidistribution | Metric questions for \((n\alpha)\); \(L^2\) arguments   | Davenport–Erdős–LeVeque; pivot to Diophantine approximation                                 |
+| week                                   | lecture 1                                               | lecture 2                                                                                   |
+|----------------------------------------+---------------------------------------------------------+---------------------------------------------------------------------------------------------|
+| 1. Metric phenomena                    | Overview: normality, equidistribution, Dirichlet        | Overview: Khintchine, Duffin--Schaeffer, Jarnik–Besicovitch; Equivalents to Borel's theorem |
+| 2. Normality                           | Borel--Cantelli, Chebyshev's inequality, Proof of Borel | Probabilistic viewpoint, ergodic theoretic viewpoint                                        |
+| 3. Equidistribution                    | A bit more ergodic theory; equidistribution             | Weyl's criterion, Van Der Corput, polynomial sequences                                      |
+| 4. Metric equidistribution             | Metric questions for \((n\alpha)\); \(L^2\) arguments   | Davenport–Erdős–LeVeque; pivot to Diophantine approximation                                 |
+| 5. Classical Diophantine approximation | Minkowski's convex body theorem, Farey fractions        | Farey fractions, Hurwitz's theorem                                                          |
 
 #+BEGIN_EXPORT html
 </details>
