@@ -9,27 +9,38 @@
 <meta name="generator" content="Org Mode" />
 <link rel="stylesheet" type="text/css" href="simple.css" />
       <link rel="icon" href="/favicon_R.svg">
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        displayAlign: "center",
-        displayIndent: "0em",
-
-        "HTML-CSS": { scale: 100,
-                        linebreaks: { automatic: "false" },
-                        webFont: "TeX"
-                       },
-        SVG: {scale: 100,
-              linebreaks: { automatic: "false" },
-              font: "TeX"},
-        NativeMML: {scale: 100},
-        TeX: { equationNumbers: {autoNumber: "AMS"},
-               MultLineWidth: "85%",
-               TagSide: "right",
-               TagIndent: ".8em"
-             }
-});
+<script>
+  window.MathJax = {
+    tex: {
+      ams: {
+        multlineWidth: '85%'
+      },
+      tags: 'ams',
+      tagSide: 'right',
+      tagIndent: '.8em'
+    },
+    chtml: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    svg: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    output: {
+      font: 'mathjax-modern',
+      displayOverflow: 'overflow'
+    }
+  };
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 </head>
 <body>
 <div id="content" class="content">
@@ -89,11 +100,9 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
-
-
-<div id="outline-container-orgfcc1a6f" class="outline-2">
-<h2 id="orgfcc1a6f">current semester</h2>
-<div class="outline-text-2" id="text-orgfcc1a6f">
+<div id="outline-container-orgd6b1c2f" class="outline-2">
+<h2 id="orgd6b1c2f">current semester</h2>
+<div class="outline-text-2" id="text-orgd6b1c2f">
 <details>
 <summary>Metric Number Theory</summary>
 
@@ -118,12 +127,12 @@ document.addEventListener("DOMContentLoaded", function () {
 <tr>
 <td class="org-left">1. Metric phenomena</td>
 <td class="org-left">Overview: normality, equidistribution, Dirichlet</td>
-<td class="org-left">Overview: Khintchine, Duffin&#x2013;Schaeffer, Jarnik–Besicovitch; Equivalents to Borel's theorem</td>
+<td class="org-left">Overview: Khintchine, Duffin&ndash;Schaeffer, Jarnik–Besicovitch; Equivalents to Borel's theorem</td>
 </tr>
 
 <tr>
 <td class="org-left">2. Normality</td>
-<td class="org-left">Borel&#x2013;Cantelli, Chebyshev's inequality, Proof of Borel</td>
+<td class="org-left">Borel&ndash;Cantelli, Chebyshev's inequality, Proof of Borel</td>
 <td class="org-left">Probabilistic viewpoint, ergodic theoretic viewpoint</td>
 </tr>
 
@@ -143,6 +152,12 @@ document.addEventListener("DOMContentLoaded", function () {
 <td class="org-left">5. Classical Diophantine approximation</td>
 <td class="org-left">Minkowski's convex body theorem, Farey fractions</td>
 <td class="org-left">Farey fractions, Hurwitz's theorem</td>
+</tr>
+
+<tr>
+<td class="org-left">6. Continued fractions</td>
+<td class="org-left">CF algorithm, basic properties</td>
+<td class="org-left">Convergents, BA iff bounded partial quotients</td>
 </tr>
 </tbody>
 </table>
@@ -181,31 +196,31 @@ document.addEventListener("DOMContentLoaded", function () {
 <tbody>
 <tr>
 <td class="org-left">Sept 18</td>
-<td class="org-left">2.1&#x2013;2.7</td>
+<td class="org-left">2.1&ndash;2.7</td>
 <td class="org-left">2.3, 2.5, 2.11, 2.21, 2.22, 2.25, 2.30, 2.35, 2.59, 2.74</td>
 </tr>
 
 <tr>
 <td class="org-left">Sept 25</td>
-<td class="org-left">3.1&#x2013;3.5</td>
+<td class="org-left">3.1&ndash;3.5</td>
 <td class="org-left">2.37, 2.66, 2.94, 2.96, 3.2, 3.18, 3.22, 3.28, 3.34, 3.38, 3.44</td>
 </tr>
 
 <tr>
 <td class="org-left">Oct 2</td>
-<td class="org-left">4.1, 4.3, 5.1, 5.3&#x2013;5.6</td>
+<td class="org-left">4.1, 4.3, 5.1, 5.3&ndash;5.6</td>
 <td class="org-left">3.47, 3.72, 3.81, 3.82, 4.4, 4.28, 5.3, 5.13, 5.16</td>
 </tr>
 
 <tr>
 <td class="org-left">Oct 9</td>
-<td class="org-left">6.1, 7.1&#x2013;7.4</td>
+<td class="org-left">6.1, 7.1&ndash;7.4</td>
 <td class="org-left">6.4, 6.5, 6.14, 7.3, 7.7, 7.20, 7.22, 7.26, 7.30, 7.38</td>
 </tr>
 
 <tr>
 <td class="org-left">Oct 16</td>
-<td class="org-left">7.5&#x2013;7.7, 8.1&#x2013;8.3</td>
+<td class="org-left">7.5&ndash;7.7, 8.1&ndash;8.3</td>
 <td class="org-left">7.42, 7.46, 7.62, 7.64, 7.88, 8.2, 8.16, 8.20</td>
 </tr>
 
@@ -217,44 +232,44 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <tr>
 <td class="org-left">Oct 30</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">8.3&ndash;8.6</td>
+<td class="org-left">8.24, 8.30, 8.42, 8.46, 8.56, 8.58, 8.60</td>
 </tr>
 
 <tr>
 <td class="org-left">Nov 6</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">&nbsp;</td>
+<td class="org-left">&nbsp;</td>
 </tr>
 
 <tr>
 <td class="org-left">Nov 13</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">&nbsp;</td>
+<td class="org-left">&nbsp;</td>
 </tr>
 
 <tr>
 <td class="org-left">Nov 20</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">&nbsp;</td>
+<td class="org-left">&nbsp;</td>
 </tr>
 
 <tr>
 <td class="org-left">Nov 27</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">&nbsp;</td>
 <td class="org-left">Thanksgiving</td>
 </tr>
 
 <tr>
 <td class="org-left">Dec 3</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">&nbsp;</td>
+<td class="org-left">&nbsp;</td>
 </tr>
 
 <tr>
 <td class="org-left">Dec 10</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">&nbsp;</td>
+<td class="org-left">&nbsp;</td>
 </tr>
 </tbody>
 </table>
@@ -268,12 +283,9 @@ document.addEventListener("DOMContentLoaded", function () {
 </details>
 </div>
 </div>
-
-
-
-<div id="outline-container-org0672047" class="outline-2">
-<h2 id="org0672047">past semesters</h2>
-<div class="outline-text-2" id="text-org0672047">
+<div id="outline-container-org7e26438" class="outline-2">
+<h2 id="org7e26438">past semesters</h2>
+<div class="outline-text-2" id="text-org7e26438">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
