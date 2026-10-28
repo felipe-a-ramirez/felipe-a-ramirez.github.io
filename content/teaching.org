@@ -18,6 +18,7 @@
 | 4. Metric equidistribution             | Metric questions for \((n\alpha)\); \(L^2\) arguments   | Davenport–Erdős–LeVeque; pivot to Diophantine approximation                                 |
 | 5. Classical Diophantine approximation | Minkowski's convex body theorem, Farey fractions        | Farey fractions, Hurwitz's theorem                                                          |
 | 6. Continued fractions                 | CF algorithm, basic properties                          | Convergents, BA iff bounded partial quotients                                               |
+| 7. Khintchine I                        | \(W(\psi)\) as a limsup set; second Borel--Cantelli     | Duffin--Schaeffer counterexample; quasi-independence on average                             |
 
 #+BEGIN_EXPORT html
 </details>
