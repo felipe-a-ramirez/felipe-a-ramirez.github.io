@@ -14,7 +14,7 @@
 | Oct 15 | [[https://sites.google.com/view/manuelhauke/][Manuel Hauke-Treuer]]  @@html:<br>@@  TU Graz, Austria | Covering the circle with random arcs, with applications to Diophantine approximation |
 | Oct 22 |                                                      |                                                                                      |
 | Oct 29 | [[https://www.wesleyan.edu/about/directory/profile.html?id=mtrang][Matthew Trang]]  @@html:<br>@@  Wesleyan Univ          | Covering Relations in the Poset of Combinatorial Neural Codes                        |
-| Nov 5  | [[https://sites.google.com/view/joe-macula][Joe Macula]]  @@html:<br>@@  Wake Forest Univ          | TBA                                                                                  |
+| Nov 5  | [[https://sites.google.com/view/joe-macula][Joe Macula]]  @@html:<br>@@  Wake Forest Univ          | Algorithms for solving the isogeny problem using orientations                        |
 | Nov 12 |                                                      |                                                                                      |
 | Nov 19 | [[https://sites.google.com/view/ruihan/home][Rui Han]]  @@html:<br>@@  Louisiana State Univ         | TBA                                                                                  |
 | Nov 26 | ---                                                  | ---                                                                                  |
