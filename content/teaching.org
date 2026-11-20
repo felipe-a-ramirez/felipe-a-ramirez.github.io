@@ -21,6 +21,8 @@
 | 7. Khintchine I                        | \(W(\psi)\) as a limsup set; second Borel--Cantelli     | Duffin--Schaeffer counterexample; quasi-independence on average                             |
 | 8. Khintchine II                       | ---                                                     | No loss of measure from coprimality; Elem. Num. Thy                                         |
 | 9. Khintchine III                      | Overlap estimates and proof of Khintchine; Cassels 0-1  | Higher dimensional viewpoint                                                                |
+| 10. Space of lattices                  | Mahler's compactness criterion                          | Dani's correspondence                                                                       |
+| 11. Hyperbolic plane                   | Hyperbolic metric, isometries                           | Geodesics, $\mathrm{PSL}(2,\mathbb{R})$ action                                              |
 
 #+BEGIN_EXPORT html
 </details>
