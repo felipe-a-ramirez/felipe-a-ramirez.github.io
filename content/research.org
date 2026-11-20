@@ -11,104 +11,108 @@ papers are on the [[https://arxiv.org/a/ramirez_f_1.html][arxiv]].
 
 
 #+ATTR_HTML: :reversed t :class publist
- 1. The inhomogeneous Khintchine theorem in dimension two \\
+ 1. On metric multiplicative Diophantine approximation \\
+    with M. Hauke-Treuer \\
+    /Submitted/
+
+ 2. The inhomogeneous Khintchine theorem in dimension two \\
     with D. Allen and M. Hauke-Treuer \\
     /Submitted/
 
- 2. Straight-line trajectories on the mucube \\
+ 3. Straight-line trajectories on the mucube \\
     with A. Oliveira, C. Sadanand, and S. Shrestha \\
     /Submitted/
 
- 3. Duffin--Schaeffer examples, real residue systems, and Bohr-set primes \\
+ 4. Duffin--Schaeffer examples, real residue systems, and Bohr-set primes \\
     with S. M. Hesseling \\
     /Submitted/
     
- 4. Twisted approximation with restricted denominators \\
+ 5. Twisted approximation with restricted denominators \\
     with M. Hauke \\
     /Submitted/
     
- 5. The Duffin--Schaeffer conjecture with a moving target \\
+ 6. The Duffin--Schaeffer conjecture with a moving target \\
     with M. Hauke \\
     /Discrete Analysis/, to appear
     
- 6. General Duffin--Schaeffer-type counterexamples in Diophantine approximation \\
+ 7. General Duffin--Schaeffer-type counterexamples in Diophantine approximation \\
     with S. Chow, M. Hauke, and A. Pollington \\
     /Mathematika/,  Special Wooley Issue, to appear
     
- 7. Metric bootstraps for limsup sets \\
+ 8. Metric bootstraps for limsup sets \\
     /Transactions of the American Mathematical Society/, 2026 \\
     
- 8. Toward Khintchine's theorem with a moving target: extra divergence or finitely centered target \\
+ 9. Toward Khintchine's theorem with a moving target: extra divergence or finitely centered target \\
     with G. Michaud \\ 
     /Mathematika/, 2026
     
- 9. Inhomogeneous approximation for systems of linear forms with primitivity constraints \\
-    with D. Allen \\
-    /Mathematische Zeitschrift/, 2025
+ 10. Inhomogeneous approximation for systems of linear forms with primitivity constraints \\
+     with D. Allen \\
+     /Mathematische Zeitschrift/, 2025
     
- 10. The Duffin--Schaeffer conjecture for systems of linear forms \\
+ 11. The Duffin--Schaeffer conjecture for systems of linear forms \\
      /Journal of the London Mathematical Society/, 2024
 
- 11. Independence inheritance and Diophantine approximation for systems of linear forms \\
+ 12. Independence inheritance and Diophantine approximation for systems of linear forms \\
      with D. Allen \\
      /International Mathematics Research Notices/, 2023
     
- 12. Diophantine approximation in metric space \\
+ 13. Diophantine approximation in metric space \\
      with J. Fraser, H. Koivusalo \\
      /Bulletin of the London Mathematical Society/, 2023
 
- 13. Dirichlet is not just bad and singular \\
+ 14. Dirichlet is not just bad and singular \\
      with V. Beresnevich, L. Guan, A. Marnat, S. Velani \\
      /Advances in Mathematics/, 2022
 
- 14. Remarks about inhomogeneous pair correlations \\
+ 15. Remarks about inhomogeneous pair correlations \\
      /Mathematical Proceedings of the Cambridge Philosophical Society/, 2022
 
- 15. A note on sequences not having metric Poissonian pair correlations \\
+ 16. A note on sequences not having metric Poissonian pair correlations \\
      /Archiv der Mathematik/, 2021
 
- 16. Khintchine's theorem with random fractions \\
+ 17. Khintchine's theorem with random fractions \\
      /Mathematika/, 2020
 
- 17. A characterization of bad approximability \\
+ 18. A characterization of bad approximability \\
      /Nonlinearity/, 2018
 
- 18. Recurrence to shrinking targets on typical self-affine fractals \\
+ 19. Recurrence to shrinking targets on typical self-affine fractals \\
      with H. Koivusalo \\
      /Proceedings of the Edinburgh Mathematical Society/, 2018
 
- 19. Rational approximation of affine coordinate subspaces of Euclidean space \\
+ 20. Rational approximation of affine coordinate subspaces of Euclidean space \\
      with D. S. Simmons, F. Sueess \\
      /Acta Arithmetica/, 2017
 
- 20. Different speeds suffice for rendezvous of two agents in arbitrary graphs \\
+ 21. Different speeds suffice for rendezvous of two agents in arbitrary graphs \\
      with E. Kranakis, D. Krizanc, E. Markou, A. Pagourtzis \\
      /SOFSEM/, 2017
 
- 21. Counterexamples, covering systems, and zero-one laws for inhomogeneous approximation \\
+ 22. Counterexamples, covering systems, and zero-one laws for inhomogeneous approximation \\
      /International Journal of Number Theory/, 2017
 
- 22. Higher cohomology of parabolic actions on certain homogeneous spaces \\
+ 23. Higher cohomology of parabolic actions on certain homogeneous spaces \\
      /Journal d'Analyse Mathematique/, 2017
 
- 23. Metric Diophantine Approximation: aspects of recent work \\
+ 24. Metric Diophantine Approximation: aspects of recent work \\
      with V. Beresnevich, S. Velani \\
      /LMS Lecture Notes Series/, 2016
 
- 24. Khintchine types of translated coordinate hyperplanes \\
+ 25. Khintchine types of translated coordinate hyperplanes \\
      /Acta Arithmetica/, 2015
 
- 25. Limit theorems for rank-one Lie groups \\
+ 26. Limit theorems for rank-one Lie groups \\
      with A. Gorodnik \\
      /Proceedings of the American Mathematical Society/, 2014
 
- 26. Invariant distributions and cohomology for geodesic flows and higher cohomology of higher-rank Anosov actions \\
+ 27. Invariant distributions and cohomology for geodesic flows and higher cohomology of higher-rank Anosov actions \\
      /Journal of Functional Analysis/, 2013
 
- 27. Higher cohomology for Anosov actions on certain homogeneous spaces \\
+ 28. Higher cohomology for Anosov actions on certain homogeneous spaces \\
      /Journal d'Analyse Mathematique/, 2013
 
- 28. Cocycles over higher-rank abelian actions on quotients of semisimple Lie groups \\
+ 29. Cocycles over higher-rank abelian actions on quotients of semisimple Lie groups \\
      /Journal of Modern Dynamics/, 2009
 
 
